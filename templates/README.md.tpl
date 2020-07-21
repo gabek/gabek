@@ -1,18 +1,23 @@
 ## Hello, I'm Gabe.
 
-#### Check out what I'm working on
-{{range recentRepos 10}}
+#### Check out some of what I'm working on
+{{range recentRepos 4}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### Latest releases I've contributed to
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+{{range recentReleases 5}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}})) - {{.Description}}
 {{- end}}
 
 #### My recent blog posts
-{{range rss "https://gabekangas.com/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{range rss "https://gabekangas.com/blog/index.xml" 4}}
+- [{{.Title}}]({{.URL}})
+{{- end}}
+
+#### My some music mixes I've compiled for you to listen to while coding
+{{range rss "https://gabekangas.com/mixes/index.xml" 3}}
+- [{{.Title}}]({{.URL}})
 {{- end}}
 
 #### Contact me

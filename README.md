@@ -20,9 +20,9 @@
 
 #### My some music mixes I've compiled for you to listen to while coding
 
+- [Owncast Stream July 28, 2020](https://gabekangas.com/mixes/owncast-stream-july-28-2020/owncast-stream-july-28-2020/)
 - [Owncast Test Stream](https://gabekangas.com/mixes/owncast-test-stream-2020-07-07/owncast-test-stream-2020-07-07/)
 - [Shelter in Place at The Bat Station #2](https://gabekangas.com/mixes/shelter-in-place-at-the-bat-station-2-may-13-2020/shelter-in-place-at-the-bat-station-2/)
-- [Shelter in Place at The Bat Station Mix](https://gabekangas.com/mixes/shelter-in-place-at-the-bat-station-mix-apri-24-2020/shelter-in-place-at-the-bat-station-mix-apri-24-2020/)
 
 #### Contact me
 

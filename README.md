@@ -13,10 +13,10 @@
 
 #### My recent blog posts
 
+- [Apple Has Shut Down The Bat Player](https://gabekangas.com/blog/2020/08/apple-has-shut-down-the-bat-player/)
 - [Owncast: A project to take control over your own live streaming](https://gabekangas.com/blog/2020/06/owncast-a-project-to-take-control-over-your-own-live-streaming/)
 - [Some recent projects for my DJ mix hobby](https://gabekangas.com/blog/2020/05/some-recent-projects-for-my-dj-mix-hobby/)
 - [When work becomes life: A Pandemic story](https://gabekangas.com/blog/2020/03/when-work-becomes-life-a-pandemic-story/)
-- [Goodbye Longtail Music](https://gabekangas.com/blog/2019/12/goodbye-longtail-music/)
 
 #### My some music mixes I've compiled for you to listen to while coding
 

@@ -9,6 +9,7 @@
 
 #### Latest releases I've contributed to
 
+- [gabek/owncast](https://github.com/gabek/owncast) ([v0.0.1](https://github.com/gabek/owncast/releases/tag/v0.0.1)) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [gabek/node-internet-radio](https://github.com/gabek/node-internet-radio) ([0.2.0](https://github.com/gabek/node-internet-radio/releases/tag/0.2.0)) - Node.js module to get Now Playing information from an internet radio stream.
 
 #### My recent blog posts

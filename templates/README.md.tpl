@@ -1,10 +1,6 @@
 ## Hello, I'm Gabe.
 
 #### Check out some of what I'm working on
-{{range recentRepos 4}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end}}

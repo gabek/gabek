@@ -5,6 +5,10 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
+{{- end}}
+
 #### Latest releases I've contributed to
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}})) - {{.Description}}

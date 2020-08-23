@@ -2,10 +2,10 @@
 
 #### Check out some of what I'm working on
 
-- [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
-- [gabek/node-internet-radio](https://github.com/gabek/node-internet-radio) - Node.js module to get Now Playing information from an internet radio stream.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [gabek/markcast](https://github.com/gabek/markcast) - Will take a directory of mp3 files and generate Markdown files from each to pass to your static site generator.  This will ultimately allow you to generate a XML feed to use for a Podcast, or something, if you wanted.  Otherwise you can just have blog posts with a player embedded.
+- [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
+- [gabek/node-internet-radio](https://github.com/gabek/node-internet-radio) - Node.js module to get Now Playing information from an internet radio stream.
 - [gabek/supbox](https://github.com/gabek/supbox) - Get the currently playing track from Rekordbox v6 as Audio Hijack Shoutcast/Icecast metadata, display in your OBS video broadcast or export as JSON.
 
 #### Latest releases I've contributed to

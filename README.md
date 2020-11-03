@@ -2,8 +2,8 @@
 
 #### Check out some of what I'm working on
 
-- [owncast/owncast-admin](https://github.com/owncast/owncast-admin) - The admin web application for managing an Owncast server
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [owncast/owncast-admin](https://github.com/owncast/owncast-admin) - The admin web application for managing an Owncast server
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
 - [owncast/wip-config-framework](https://github.com/owncast/wip-config-framework) - A temp repo for experimenting on a new persistent config framework
 - [gabek/node-internet-radio](https://github.com/gabek/node-internet-radio) - Node.js module to get Now Playing information from an internet radio stream.

@@ -21,9 +21,9 @@
 
 #### My some music mixes I've compiled for you to listen to while coding
 
+- [Owncast Livestream Dec 3, 2020](https://gabekangas.com/mixes/dec-3-2020/dec-3-2020/)
 - [Gabe @ Owncast Stream Sept 17, 2020](https://gabekangas.com/mixes/gabe-owncast-stream-sept-17-2020/gabe-owncast-stream-sept-17-2020/)
 - [Owncast Stream July 28, 2020](https://gabekangas.com/mixes/owncast-stream-july-28-2020/owncast-stream-july-28-2020/)
-- [Owncast Test Stream](https://gabekangas.com/mixes/owncast-test-stream-2020-07-07/owncast-test-stream-2020-07-07/)
 
 #### Contact me
 

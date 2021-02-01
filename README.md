@@ -2,9 +2,9 @@
 
 #### Check out some of what I'm working on
 
+- [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
 - [owncast/owncast-admin](https://github.com/owncast/owncast-admin) - The admin web application for managing an Owncast server
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
 - [gabek/node-internet-radio](https://github.com/gabek/node-internet-radio) - Node.js module to get Now Playing information from an internet radio stream.
 - [gabek/markcast](https://github.com/gabek/markcast) - Will take a directory of mp3 files and generate Markdown files from each to pass to your static site generator allowing you to generate a XML feed to use as a Podcast or blog posts.
 

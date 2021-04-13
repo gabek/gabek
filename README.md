@@ -16,10 +16,10 @@
 
 #### My recent blog posts
 
+- [A personal update about career and the future](https://gabekangas.com/blog/2021/04/a-personal-update-about-career-and-the-future/)
 - [A brief update on Owncast](https://gabekangas.com/blog/2020/12/a-brief-update-on-owncast/)
 - [Apple Has Shut Down The Bat Player](https://gabekangas.com/blog/2020/08/apple-has-shut-down-the-bat-player/)
 - [Owncast: A project to take control over your own live streaming](https://gabekangas.com/blog/2020/06/owncast-a-project-to-take-control-over-your-own-live-streaming/)
-- [Some recent projects for my DJ mix hobby](https://gabekangas.com/blog/2020/05/some-recent-projects-for-my-dj-mix-hobby/)
 
 #### My some music mixes I've compiled for you to listen to while coding
 

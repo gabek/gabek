@@ -21,11 +21,11 @@
 - [Apple Has Shut Down The Bat Player](https://gabekangas.com/blog/2020/08/apple-has-shut-down-the-bat-player/)
 - [Owncast: A project to take control over your own live streaming](https://gabekangas.com/blog/2020/06/owncast-a-project-to-take-control-over-your-own-live-streaming/)
 
-#### My some music mixes I've compiled for you to listen to while coding
+#### Movies I've recently watched
 
-- [Owncast Livestream Dec 3, 2020](https://gabekangas.com/mixes/dec-3-2020/dec-3-2020/)
-- [Gabe @ Owncast Stream Sept 17, 2020](https://gabekangas.com/mixes/gabe-owncast-stream-sept-17-2020/gabe-owncast-stream-sept-17-2020/)
-- [Owncast Stream July 28, 2020](https://gabekangas.com/mixes/owncast-stream-july-28-2020/owncast-stream-july-28-2020/)
+- [Army of the Dead, 2021 - ★★½](https://letterboxd.com/gabekangas/film/army-of-the-dead-2021/)
+- [M.C. Escher: Journey to Infinity, 2018 - ★★½](https://letterboxd.com/gabekangas/film/mc-escher-journey-to-infinity/)
+- [Nomadland, 2020 - ★★★★](https://letterboxd.com/gabekangas/film/nomadland/)
 
 #### Contact me
 

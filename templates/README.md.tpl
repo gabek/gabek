@@ -15,8 +15,8 @@
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-#### My some music mixes I've compiled for you to listen to while coding
-{{range rss "https://gabekangas.com/mixes/index.xml" 3}}
+#### Movies I've recently watched
+{{range rss "https://letterboxd.com/gabekangas/rss/" 3}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 

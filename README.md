@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Moby Doc, 2021 - ★★★](https://letterboxd.com/gabekangas/film/moby-doc/)
 - [Army of the Dead, 2021 - ★★½](https://letterboxd.com/gabekangas/film/army-of-the-dead-2021/)
 - [M.C. Escher: Journey to Infinity, 2018 - ★★½](https://letterboxd.com/gabekangas/film/mc-escher-journey-to-infinity/)
-- [Nomadland, 2020 - ★★★★](https://letterboxd.com/gabekangas/film/nomadland/)
 
 #### Contact me
 

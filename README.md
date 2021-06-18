@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Occupation: Rainfall, 2020 - ★½](https://letterboxd.com/gabekangas/film/occupation-rainfall/)
 - [Moby Doc, 2021 - ★★★](https://letterboxd.com/gabekangas/film/moby-doc/)
 - [Army of the Dead, 2021 - ★★½](https://letterboxd.com/gabekangas/film/army-of-the-dead-2021/)
-- [M.C. Escher: Journey to Infinity, 2018 - ★★½](https://letterboxd.com/gabekangas/film/mc-escher-journey-to-infinity/)
 
 #### Contact me
 

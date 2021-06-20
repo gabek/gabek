@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Chaos Walking, 2021 - ★★](https://letterboxd.com/gabekangas/film/chaos-walking/)
 - [Volition, 2019 - ★★★](https://letterboxd.com/gabekangas/film/volition/)
 - [Occupation: Rainfall, 2020 - ★½](https://letterboxd.com/gabekangas/film/occupation-rainfall/)
-- [Moby Doc, 2021 - ★★★](https://letterboxd.com/gabekangas/film/moby-doc/)
 
 #### Contact me
 

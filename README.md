@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [F9, 2021 - ★½](https://letterboxd.com/gabekangas/film/f9/)
 - [Nobody, 2021 - ★★★½](https://letterboxd.com/gabekangas/film/nobody-2021/)
 - [Chaos Walking, 2021 - ★★](https://letterboxd.com/gabekangas/film/chaos-walking/)
-- [Volition, 2019 - ★★★](https://letterboxd.com/gabekangas/film/volition/)
 
 #### Contact me
 

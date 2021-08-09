@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Pig, 2021 - ★★★★½](https://letterboxd.com/gabekangas/film/pig-2021/)
 - [The Suicide Squad, 2021 - ★](https://letterboxd.com/gabekangas/film/the-suicide-squad/)
 - [Spiral: From the Book of Saw, 2021 - ★](https://letterboxd.com/gabekangas/film/spiral-from-the-book-of-saw/)
-- [Closed for Storm, 2020 - ★★](https://letterboxd.com/gabekangas/film/closed-for-storm/)
 
 #### Contact me
 

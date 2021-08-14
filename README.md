@@ -4,8 +4,8 @@
 
 - [owncast/owncast-examples](https://github.com/owncast/owncast-examples) - Some example projects that tie into Owncast APIs
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [owncast/owncast-admin](https://github.com/owncast/owncast-admin) - The admin web application for managing an Owncast server
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
+- [owncast/owncast-admin](https://github.com/owncast/owncast-admin) - The admin web application for managing an Owncast server
 - [gabek/node-internet-radio](https://github.com/gabek/node-internet-radio) - Node.js module to get Now Playing information from an internet radio stream.
 
 #### Latest releases I've contributed to

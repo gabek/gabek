@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [The Meaning of Hitler, 2021 - ★★★½](https://letterboxd.com/gabekangas/film/the-meaning-of-hitler/)
 - [The Incoherents, 2019 - ★★★](https://letterboxd.com/gabekangas/film/the-incoherents/)
 - [Pig, 2021 - ★★★★½](https://letterboxd.com/gabekangas/film/pig-2021/)
-- [The Suicide Squad, 2021 - ★](https://letterboxd.com/gabekangas/film/the-suicide-squad/)
 
 #### Contact me
 

@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Black Widow, 2021 - ★★½](https://letterboxd.com/gabekangas/film/black-widow-2021/)
 - [Cruella, 2021 - ★★½](https://letterboxd.com/gabekangas/film/cruella/)
 - [Snake Eyes: G.I. Joe Origins, 2021 - ★★](https://letterboxd.com/gabekangas/film/snake-eyes-gi-joe-origins/)
-- [The Departed, 2006 - ★★½](https://letterboxd.com/gabekangas/film/the-departed/)
 
 #### Contact me
 

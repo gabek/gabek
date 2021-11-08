@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Titane, 2021 - ★★★★](https://letterboxd.com/gabekangas/film/titane/)
 - [Free Guy, 2021 - ★](https://letterboxd.com/gabekangas/film/free-guy/1/)
 - [The Savior for Sale, 2021 - ★½](https://letterboxd.com/gabekangas/film/the-savior-for-sale/)
-- [Old, 2021 - ★★½](https://letterboxd.com/gabekangas/film/old-2021/)
 
 #### Contact me
 

@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Shang-Chi and the Legend of the Ten Rings, 2021 - ★★½](https://letterboxd.com/gabekangas/film/shang-chi-and-the-legend-of-the-ten-rings/)
 - [Prisoners of the Ghostland, 2021 - ★★½](https://letterboxd.com/gabekangas/film/prisoners-of-the-ghostland/)
 - [Titane, 2021 - ★★★★](https://letterboxd.com/gabekangas/film/titane/)
-- [Free Guy, 2021 - ★](https://letterboxd.com/gabekangas/film/free-guy/1/)
 
 #### Contact me
 

@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Monster&#39;s Ball, 2001 - ★★★★](https://letterboxd.com/gabekangas/film/monsters-ball/)
 - [Candyman, 2021 - ★★](https://letterboxd.com/gabekangas/film/candyman-2021/)
 - [The Eyes of Tammy Faye, 2021 - ★★★](https://letterboxd.com/gabekangas/film/the-eyes-of-tammy-faye-2021/)
-- [Multiverse, 2019 - ★★★](https://letterboxd.com/gabekangas/film/multiverse-2019-1/)
 
 #### Contact me
 

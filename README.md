@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Candyman, 2021 - ★★](https://letterboxd.com/gabekangas/film/candyman-2021/)
 - [The Eyes of Tammy Faye, 2021 - ★★★](https://letterboxd.com/gabekangas/film/the-eyes-of-tammy-faye-2021/)
 - [Multiverse, 2019 - ★★★](https://letterboxd.com/gabekangas/film/multiverse-2019-1/)
-- [Shang-Chi and the Legend of the Ten Rings, 2021 - ★★½](https://letterboxd.com/gabekangas/film/shang-chi-and-the-legend-of-the-ten-rings/)
 
 #### Contact me
 

@@ -10,6 +10,7 @@
 
 #### Latest releases I've contributed to
 
+- [gabek/vadeo](https://github.com/gabek/vadeo) ([0.2.0](https://github.com/gabek/vadeo/releases/tag/0.2.0)) - Re-broadcast your internet radio station as a live video stream to your video streaming platform of choice.
 - [gabek/node-internet-radio](https://github.com/gabek/node-internet-radio) ([0.2.1](https://github.com/gabek/node-internet-radio/releases/tag/0.2.1)) - Node.js module to get Now Playing information from an internet radio stream.
 
 #### My recent blog posts

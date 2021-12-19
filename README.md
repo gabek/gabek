@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Spider-Man: No Way Home, 2021 - ★★★½](https://letterboxd.com/gabekangas/film/spider-man-no-way-home/)
 - [Venom: Let There Be Carnage, 2021 - ★★½](https://letterboxd.com/gabekangas/film/venom-let-there-be-carnage/)
 - [Monster&#39;s Ball, 2001 - ★★★★](https://letterboxd.com/gabekangas/film/monsters-ball/)
-- [Candyman, 2021 - ★★](https://letterboxd.com/gabekangas/film/candyman-2021/)
 
 #### Contact me
 

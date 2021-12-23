@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [The Matrix Resurrections, 2021 - ★★★★★](https://letterboxd.com/gabekangas/film/the-matrix-resurrections/)
 - [Swan Song, 2021 - ★★](https://letterboxd.com/gabekangas/film/swan-song-2021-1/)
 - [Spider-Man: No Way Home, 2021 - ★★★½](https://letterboxd.com/gabekangas/film/spider-man-no-way-home/)
-- [Venom: Let There Be Carnage, 2021 - ★★½](https://letterboxd.com/gabekangas/film/venom-let-there-be-carnage/)
 
 #### Contact me
 

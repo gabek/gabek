@@ -2,8 +2,8 @@
 
 #### Check out some of what I'm working on
 
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [owncast/owncast-admin](https://github.com/owncast/owncast-admin) - The admin web application for managing an Owncast server.
 - [gabek/vadeo](https://github.com/gabek/vadeo) - Re-broadcast your internet radio station as a live video stream to your video streaming platform of choice.
 - [owncast/owncast-examples](https://github.com/owncast/owncast-examples) - Some example projects that tie into Owncast APIs

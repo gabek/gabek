@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Eternals, 2021 - ★★](https://letterboxd.com/gabekangas/film/eternals/)
 - [Don&#39;t Look Up, 2021 - ★★](https://letterboxd.com/gabekangas/film/dont-look-up-2021/)
 - [Night Raiders, 2021 - ★★½](https://letterboxd.com/gabekangas/film/night-raiders-2021/)
-- [Bill &amp; Ted Face the Music, 2020 - ★★★](https://letterboxd.com/gabekangas/film/bill-ted-face-the-music/)
 
 #### Contact me
 

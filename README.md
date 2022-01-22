@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Reminiscence, 2021 - ★★](https://letterboxd.com/gabekangas/film/reminiscence-2021/)
 - [Brian Wilson: Long Promised Road, 2021 - ★★★½](https://letterboxd.com/gabekangas/film/brian-wilson-long-promised-road/)
 - [Eternals, 2021 - ★★](https://letterboxd.com/gabekangas/film/eternals/)
-- [Don&#39;t Look Up, 2021 - ★★](https://letterboxd.com/gabekangas/film/dont-look-up-2021/)
 
 #### Contact me
 

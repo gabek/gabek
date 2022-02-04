@@ -2,14 +2,15 @@
 
 #### Check out some of what I'm working on
 
+- [g8rswimmer/go-twitter](https://github.com/g8rswimmer/go-twitter) - This is a go library for twitter v2 API integration.
 - [owncast/owncast-admin](https://github.com/owncast/owncast-admin) - The admin web application for managing an Owncast server.
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [gabek/vadeo](https://github.com/gabek/vadeo) - Re-broadcast your internet radio station as a live video stream to your video streaming platform of choice.
-- [owncast/owncast-examples](https://github.com/owncast/owncast-examples) - Some example projects that tie into Owncast APIs
 
 #### Latest releases I've contributed to
 
+- [g8rswimmer/go-twitter](https://github.com/g8rswimmer/go-twitter) ([v2.0.0-beta9](https://github.com/g8rswimmer/go-twitter/releases/tag/v2.0.0-beta9)) - This is a go library for twitter v2 API integration.
 - [gabek/vadeo](https://github.com/gabek/vadeo) ([0.2.0](https://github.com/gabek/vadeo/releases/tag/0.2.0)) - Re-broadcast your internet radio station as a live video stream to your video streaming platform of choice.
 - [gabek/node-internet-radio](https://github.com/gabek/node-internet-radio) ([0.2.1](https://github.com/gabek/node-internet-radio/releases/tag/0.2.1)) - Node.js module to get Now Playing information from an internet radio stream.
 

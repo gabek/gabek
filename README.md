@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Ghostbusters: Afterlife, 2021 - ★★★](https://letterboxd.com/gabekangas/film/ghostbusters-afterlife/)
 - [Reminiscence, 2021 - ★★](https://letterboxd.com/gabekangas/film/reminiscence-2021/)
 - [Brian Wilson: Long Promised Road, 2021 - ★★★½](https://letterboxd.com/gabekangas/film/brian-wilson-long-promised-road/)
-- [Eternals, 2021 - ★★](https://letterboxd.com/gabekangas/film/eternals/)
 
 #### Contact me
 

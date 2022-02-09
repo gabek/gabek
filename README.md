@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Capote, 2005 - ★★★](https://letterboxd.com/gabekangas/film/capote/)
 - [Ghostbusters: Afterlife, 2021 - ★★★](https://letterboxd.com/gabekangas/film/ghostbusters-afterlife/)
 - [Reminiscence, 2021 - ★★](https://letterboxd.com/gabekangas/film/reminiscence-2021/)
-- [Brian Wilson: Long Promised Road, 2021 - ★★★½](https://letterboxd.com/gabekangas/film/brian-wilson-long-promised-road/)
 
 #### Contact me
 

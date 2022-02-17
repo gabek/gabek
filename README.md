@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Cherry, 2021 - ★★★★](https://letterboxd.com/gabekangas/film/cherry-2021/)
 - [Cosmic Dawn, 2021 - ★★★](https://letterboxd.com/gabekangas/film/cosmic-dawn/)
 - [Capote, 2005 - ★★★](https://letterboxd.com/gabekangas/film/capote/)
-- [Ghostbusters: Afterlife, 2021 - ★★★](https://letterboxd.com/gabekangas/film/ghostbusters-afterlife/)
 
 #### Contact me
 

@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Ted K, 2021 - ★★½](https://letterboxd.com/gabekangas/film/ted-k/)
 - [Cherry, 2021 - ★★★★](https://letterboxd.com/gabekangas/film/cherry-2021/)
 - [Cosmic Dawn, 2021 - ★★★](https://letterboxd.com/gabekangas/film/cosmic-dawn/)
-- [Capote, 2005 - ★★★](https://letterboxd.com/gabekangas/film/capote/)
 
 #### Contact me
 

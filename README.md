@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Kimi, 2022 - ★½](https://letterboxd.com/gabekangas/film/kimi/)
 - [Antlers, 2021 - ★★](https://letterboxd.com/gabekangas/film/antlers/)
 - [Ted K, 2021 - ★★½](https://letterboxd.com/gabekangas/film/ted-k/)
-- [Cherry, 2021 - ★★★★](https://letterboxd.com/gabekangas/film/cherry-2021/)
 
 #### Contact me
 

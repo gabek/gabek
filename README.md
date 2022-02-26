@@ -10,7 +10,7 @@
 
 #### Latest releases I've contributed to
 
-- [g8rswimmer/go-twitter](https://github.com/g8rswimmer/go-twitter) ([v2.0.0-beta11](https://github.com/g8rswimmer/go-twitter/releases/tag/v2.0.0-beta11)) - This is a go library for twitter v2 API integration.
+- [g8rswimmer/go-twitter](https://github.com/g8rswimmer/go-twitter) ([v2.0.0-beta12](https://github.com/g8rswimmer/go-twitter/releases/tag/v2.0.0-beta12)) - This is a go library for twitter v2 API integration.
 - [gabek/vadeo](https://github.com/gabek/vadeo) ([0.2.0](https://github.com/gabek/vadeo/releases/tag/0.2.0)) - Re-broadcast your internet radio station as a live video stream to your video streaming platform of choice.
 - [gabek/node-internet-radio](https://github.com/gabek/node-internet-radio) ([0.2.1](https://github.com/gabek/node-internet-radio/releases/tag/0.2.1)) - Node.js module to get Now Playing information from an internet radio stream.
 

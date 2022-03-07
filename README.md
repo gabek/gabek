@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [West Side Story, 2021 - ★★★](https://letterboxd.com/gabekangas/film/west-side-story-2021/)
 - [Kimi, 2022 - ★½](https://letterboxd.com/gabekangas/film/kimi/)
 - [Antlers, 2021 - ★★](https://letterboxd.com/gabekangas/film/antlers/)
-- [Ted K, 2021 - ★★½](https://letterboxd.com/gabekangas/film/ted-k/)
 
 #### Contact me
 

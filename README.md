@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Nightmare Alley, 2021 - ★★★½](https://letterboxd.com/gabekangas/film/nightmare-alley-2021/)
 - [West Side Story, 2021 - ★★★](https://letterboxd.com/gabekangas/film/west-side-story-2021/)
 - [Kimi, 2022 - ★½](https://letterboxd.com/gabekangas/film/kimi/)
-- [Antlers, 2021 - ★★](https://letterboxd.com/gabekangas/film/antlers/)
 
 #### Contact me
 

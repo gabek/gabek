@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Everything Everywhere All at Once, 2022 - ★★★](https://letterboxd.com/gabekangas/film/everything-everywhere-all-at-once/)
+- [The Last Emperor, 1987 - ★★★½](https://letterboxd.com/gabekangas/film/the-last-emperor/)
 - [Taxi Driver, 1976 - ★★★★](https://letterboxd.com/gabekangas/film/taxi-driver/)
-- [Nightmare Alley, 2021 - ★★★½](https://letterboxd.com/gabekangas/film/nightmare-alley-2021/)
-- [West Side Story, 2021 - ★★★](https://letterboxd.com/gabekangas/film/west-side-story-2021/)
 
 #### Contact me
 

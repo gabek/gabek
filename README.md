@@ -24,9 +24,9 @@
 
 #### Movies I've recently watched
 
+- [The Bubble, 2022 - ★½](https://letterboxd.com/gabekangas/film/the-bubble-2022/)
 - [Everything Everywhere All at Once, 2022 - ★★★](https://letterboxd.com/gabekangas/film/everything-everywhere-all-at-once/)
 - [The Last Emperor, 1987 - ★★★½](https://letterboxd.com/gabekangas/film/the-last-emperor/)
-- [Taxi Driver, 1976 - ★★★★](https://letterboxd.com/gabekangas/film/taxi-driver/)
 
 #### Contact me
 

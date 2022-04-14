@@ -24,9 +24,9 @@
 
 #### Movies I've recently watched
 
+- [Moon Manor, 2021 - ★★★½](https://letterboxd.com/gabekangas/film/moon-manor/)
 - [The Bubble, 2022 - ★½](https://letterboxd.com/gabekangas/film/the-bubble-2022/)
 - [Everything Everywhere All at Once, 2022 - ★★★](https://letterboxd.com/gabekangas/film/everything-everywhere-all-at-once/)
-- [The Last Emperor, 1987 - ★★★½](https://letterboxd.com/gabekangas/film/the-last-emperor/)
 
 #### Contact me
 

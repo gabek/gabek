@@ -24,9 +24,9 @@
 
 #### Movies I've recently watched
 
+- [The Batman, 2022 - ★★★](https://letterboxd.com/gabekangas/film/the-batman/)
 - [Moon Manor, 2021 - ★★★½](https://letterboxd.com/gabekangas/film/moon-manor/)
 - [The Bubble, 2022 - ★½](https://letterboxd.com/gabekangas/film/the-bubble-2022/)
-- [Everything Everywhere All at Once, 2022 - ★★★](https://letterboxd.com/gabekangas/film/everything-everywhere-all-at-once/)
 
 #### Contact me
 

@@ -24,9 +24,9 @@
 
 #### Movies I've recently watched
 
+- [Moonfall, 2022 - ★★](https://letterboxd.com/gabekangas/film/moonfall/)
 - [The King of Comedy, 1982 - ★★★](https://letterboxd.com/gabekangas/film/the-king-of-comedy/)
 - [The Batman, 2022 - ★★★](https://letterboxd.com/gabekangas/film/the-batman/)
-- [Moon Manor, 2021 - ★★★½](https://letterboxd.com/gabekangas/film/moon-manor/)
 
 #### Contact me
 

@@ -3,9 +3,9 @@
 #### Check out some of what I'm working on
 
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
+- [gabek/gabekangas.com](https://github.com/gabek/gabekangas.com) - My personal web site at https://gabekangas.com.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [owncast/owncast-admin](https://github.com/owncast/owncast-admin) - The admin web application for managing an Owncast server.
-- [gabek/gabekangas.com](https://github.com/gabek/gabekangas.com) - My personal web site at https://gabekangas.com.
 - [g8rswimmer/go-twitter](https://github.com/g8rswimmer/go-twitter) - This is a go library for twitter v2 API integration.
 
 #### Latest releases I've contributed to
@@ -17,10 +17,10 @@
 
 #### My recent blog posts
 
+- [Being a part of a team](https://gabekangas.com/blog/2022/05/being-a-part-of-a-team/)
 - [An exciting update about Owncast](https://gabekangas.com/blog/2021/06/an-exciting-update-about-owncast/)
 - [A personal update about career and the future](https://gabekangas.com/blog/2021/04/a-personal-update-about-career-and-the-future/)
 - [A brief update on Owncast](https://gabekangas.com/blog/2020/12/a-brief-update-on-owncast/)
-- [Apple Has Shut Down The Bat Player](https://gabekangas.com/blog/2020/08/apple-has-shut-down-the-bat-player/)
 
 #### Movies I've recently watched
 

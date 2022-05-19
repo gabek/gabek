@@ -24,9 +24,9 @@
 
 #### Movies I've recently watched
 
+- [a-ha: The Movie, 2021 - ★★](https://letterboxd.com/gabekangas/film/a-ha-the-movie/)
 - [Moonfall, 2022 - ★★](https://letterboxd.com/gabekangas/film/moonfall/)
 - [The King of Comedy, 1982 - ★★★](https://letterboxd.com/gabekangas/film/the-king-of-comedy/)
-- [The Batman, 2022 - ★★★](https://letterboxd.com/gabekangas/film/the-batman/)
 
 #### Contact me
 

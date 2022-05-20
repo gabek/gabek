@@ -24,9 +24,9 @@
 
 #### Movies I've recently watched
 
+- [Uncharted, 2022 - ★★](https://letterboxd.com/gabekangas/film/uncharted-2022/)
 - [a-ha: The Movie, 2021 - ★★](https://letterboxd.com/gabekangas/film/a-ha-the-movie/)
 - [Moonfall, 2022 - ★★](https://letterboxd.com/gabekangas/film/moonfall/)
-- [The King of Comedy, 1982 - ★★★](https://letterboxd.com/gabekangas/film/the-king-of-comedy/)
 
 #### Contact me
 

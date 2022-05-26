@@ -24,9 +24,9 @@
 
 #### Movies I've recently watched
 
+- [Sonic the Hedgehog 2, 2022 - ★½](https://letterboxd.com/gabekangas/film/sonic-the-hedgehog-2/)
 - [Uncharted, 2022 - ★★](https://letterboxd.com/gabekangas/film/uncharted-2022/)
 - [a-ha: The Movie, 2021 - ★★](https://letterboxd.com/gabekangas/film/a-ha-the-movie/)
-- [Moonfall, 2022 - ★★](https://letterboxd.com/gabekangas/film/moonfall/)
 
 #### Contact me
 

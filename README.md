@@ -24,9 +24,9 @@
 
 #### Movies I've recently watched
 
+- [Iron Sky: The Coming Race, 2019 - ★½](https://letterboxd.com/gabekangas/film/iron-sky-the-coming-race/)
 - [Fantastic Beasts: The Secrets of Dumbledore, 2022 - ★★½](https://letterboxd.com/gabekangas/film/fantastic-beasts-the-secrets-of-dumbledore/)
 - [Sonic the Hedgehog 2, 2022 - ★½](https://letterboxd.com/gabekangas/film/sonic-the-hedgehog-2/)
-- [Uncharted, 2022 - ★★](https://letterboxd.com/gabekangas/film/uncharted-2022/)
 
 #### Contact me
 

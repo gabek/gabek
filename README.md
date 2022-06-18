@@ -24,9 +24,9 @@
 
 #### Movies I've recently watched
 
+- [Star Trek IV: The Voyage Home, 1986 - ★★½](https://letterboxd.com/gabekangas/film/star-trek-iv-the-voyage-home/)
 - [Crimes of the Future, 2022 - ★★½](https://letterboxd.com/gabekangas/film/crimes-of-the-future-2022/)
 - [Iron Sky: The Coming Race, 2019 - ★½](https://letterboxd.com/gabekangas/film/iron-sky-the-coming-race/)
-- [Fantastic Beasts: The Secrets of Dumbledore, 2022 - ★★½](https://letterboxd.com/gabekangas/film/fantastic-beasts-the-secrets-of-dumbledore/)
 
 #### Contact me
 

@@ -24,9 +24,9 @@
 
 #### Movies I've recently watched
 
+- [Soylent Green, 1973 - ★★★](https://letterboxd.com/gabekangas/film/soylent-green/)
 - [Hotel Artemis, 2018 - ★★★](https://letterboxd.com/gabekangas/film/hotel-artemis/)
 - [Star Trek IV: The Voyage Home, 1986 - ★★½](https://letterboxd.com/gabekangas/film/star-trek-iv-the-voyage-home/)
-- [Crimes of the Future, 2022 - ★★½](https://letterboxd.com/gabekangas/film/crimes-of-the-future-2022/)
 
 #### Contact me
 

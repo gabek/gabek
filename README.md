@@ -24,9 +24,9 @@
 
 #### Movies I've recently watched
 
+- [Hotel Artemis, 2018 - ★★★](https://letterboxd.com/gabekangas/film/hotel-artemis/)
 - [Star Trek IV: The Voyage Home, 1986 - ★★½](https://letterboxd.com/gabekangas/film/star-trek-iv-the-voyage-home/)
 - [Crimes of the Future, 2022 - ★★½](https://letterboxd.com/gabekangas/film/crimes-of-the-future-2022/)
-- [Iron Sky: The Coming Race, 2019 - ★½](https://letterboxd.com/gabekangas/film/iron-sky-the-coming-race/)
 
 #### Contact me
 

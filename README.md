@@ -24,9 +24,9 @@
 
 #### Movies I've recently watched
 
+- [Doctor Strange in the Multiverse of Madness, 2022 - ★★](https://letterboxd.com/gabekangas/film/doctor-strange-in-the-multiverse-of-madness/)
 - [Spiderhead, 2022 - ★★★](https://letterboxd.com/gabekangas/film/spiderhead/)
 - [Soylent Green, 1973 - ★★★](https://letterboxd.com/gabekangas/film/soylent-green/)
-- [Hotel Artemis, 2018 - ★★★](https://letterboxd.com/gabekangas/film/hotel-artemis/)
 
 #### Contact me
 

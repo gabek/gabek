@@ -2,9 +2,9 @@
 
 #### Check out some of what I'm working on
 
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
 - [owncast/owncast-admin](https://github.com/owncast/owncast-admin) - The admin web application for managing an Owncast server.
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [owncast/vhs-latency-compensator](https://github.com/owncast/vhs-latency-compensator) - Attempt to minimize latency when using videojs http streaming. 
 - [gabek/gabekangas.com](https://github.com/gabek/gabekangas.com) - My personal web site at https://gabekangas.com.
 

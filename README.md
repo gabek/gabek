@@ -24,9 +24,9 @@
 
 #### Movies I've recently watched
 
+- [The Northman, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/the-northman/)
 - [Paprika, 2006 - ★★★](https://letterboxd.com/gabekangas/film/paprika-2006/)
 - [The Unbearable Weight of Massive Talent, 2022 - ★★★](https://letterboxd.com/gabekangas/film/the-unbearable-weight-of-massive-talent/)
-- [Star Trek V: The Final Frontier, 1989 - ★★](https://letterboxd.com/gabekangas/film/star-trek-v-the-final-frontier/)
 
 #### Contact me
 

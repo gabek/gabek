@@ -30,6 +30,6 @@
 
 #### Contact me
 
-- Fediverse: https://mastodon.social/@gabek
+- Fediverse: https://social.gabekangas.com/gabek
 - Blog: https://gabekangas.com
 - Linkedin: https://www.linkedin.com/in/gabek/

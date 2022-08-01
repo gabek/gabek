@@ -24,9 +24,9 @@
 
 #### Movies I've recently watched
 
+- [Wyrm, 2019 - ★★★](https://letterboxd.com/gabekangas/film/wyrm-2019/)
 - [The Northman, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/the-northman/)
 - [Paprika, 2006 - ★★★](https://letterboxd.com/gabekangas/film/paprika-2006/)
-- [The Unbearable Weight of Massive Talent, 2022 - ★★★](https://letterboxd.com/gabekangas/film/the-unbearable-weight-of-massive-talent/)
 
 #### Contact me
 

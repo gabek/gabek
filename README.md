@@ -16,10 +16,10 @@
 
 #### My recent blog posts
 
+- [Decentralized discovery](https://gabekangas.com/blog/2022/08/decentralized-discovery/)
 - [Ship software, not code](https://gabekangas.com/blog/2022/06/ship-software-not-code/)
 - [Being a part of a team](https://gabekangas.com/blog/2022/05/being-a-part-of-a-team/)
 - [An exciting update about Owncast](https://gabekangas.com/blog/2021/06/an-exciting-update-about-owncast/)
-- [A personal update about career and the future](https://gabekangas.com/blog/2021/04/a-personal-update-about-career-and-the-future/)
 
 #### Movies I've recently watched
 

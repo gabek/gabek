@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [The Immaculate Room, 2022 - ★★½](https://letterboxd.com/gabekangas/film/the-immaculate-room/)
 - [Nope, 2022 - ★★½](https://letterboxd.com/gabekangas/film/nope/)
 - [Wyrm, 2019 - ★★★](https://letterboxd.com/gabekangas/film/wyrm-2019/)
-- [The Northman, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/the-northman/)
 
 #### Contact me
 

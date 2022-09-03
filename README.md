@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Elvis, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/elvis-2022/)
 - [The Immaculate Room, 2022 - ★★½](https://letterboxd.com/gabekangas/film/the-immaculate-room/)
 - [Nope, 2022 - ★★½](https://letterboxd.com/gabekangas/film/nope/)
-- [Wyrm, 2019 - ★★★](https://letterboxd.com/gabekangas/film/wyrm-2019/)
 
 #### Contact me
 

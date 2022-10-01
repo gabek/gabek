@@ -4,9 +4,9 @@
 
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source projects. Jump in!
+- [owncast/playout-example](https://github.com/owncast/playout-example) - An example of a 24/7 stream powered by Owncast &#43; ffplayout
 - [szabgab/awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers) - 
-- [gabek/gabekangas.com](https://github.com/gabek/gabekangas.com) - My personal web site at https://gabekangas.com.
+- [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source projects. Jump in!
 
 #### Latest releases I've contributed to
 

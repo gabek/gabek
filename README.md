@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Top Gun: Maverick, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/top-gun-maverick/)
+- [Jurassic World Dominion, 2022 - ★★](https://letterboxd.com/gabekangas/film/jurassic-world-dominion/)
 - [Prey, 2022 - ★★½](https://letterboxd.com/gabekangas/film/prey-2022/)
-- [Elvis, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/elvis-2022/)
-- [The Immaculate Room, 2022 - ★★½](https://letterboxd.com/gabekangas/film/the-immaculate-room/)
 
 #### Contact me
 

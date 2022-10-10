@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Blonde, 2022 - ★★★](https://letterboxd.com/gabekangas/film/blonde-2022/)
 - [Top Gun: Maverick, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/top-gun-maverick/)
 - [Jurassic World Dominion, 2022 - ★★](https://letterboxd.com/gabekangas/film/jurassic-world-dominion/)
-- [Prey, 2022 - ★★½](https://letterboxd.com/gabekangas/film/prey-2022/)
 
 #### Contact me
 

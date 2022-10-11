@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [The Black Phone, 2021 - ★★★](https://letterboxd.com/gabekangas/film/the-black-phone/)
 - [Blonde, 2022 - ★★★](https://letterboxd.com/gabekangas/film/blonde-2022/)
 - [Top Gun: Maverick, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/top-gun-maverick/)
-- [Jurassic World Dominion, 2022 - ★★](https://letterboxd.com/gabekangas/film/jurassic-world-dominion/)
 
 #### Contact me
 

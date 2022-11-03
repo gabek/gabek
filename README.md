@@ -10,7 +10,7 @@
 
 #### Latest releases I've contributed to
 
-- [g8rswimmer/go-twitter](https://github.com/g8rswimmer/go-twitter) ([v2.1.2](https://github.com/g8rswimmer/go-twitter/releases/tag/v2.1.2)) - This is a go library for twitter v2 API integration.
+- [g8rswimmer/go-twitter](https://github.com/g8rswimmer/go-twitter) ([v2.1.3](https://github.com/g8rswimmer/go-twitter/releases/tag/v2.1.3)) - This is a go library for twitter v2 API integration.
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.12](https://github.com/owncast/owncast/releases/tag/v0.0.12)) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [gabek/vadeo](https://github.com/gabek/vadeo) ([0.2.0](https://github.com/gabek/vadeo/releases/tag/0.2.0)) - Re-broadcast your internet radio station as a live video stream to your video streaming platform of choice.
 

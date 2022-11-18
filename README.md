@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Three Thousand Years of Longing, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/three-thousand-years-of-longing/)
 - [Fall, 2022 - ★★](https://letterboxd.com/gabekangas/film/fall-2022/)
 - [The Black Phone, 2022 - ★★★](https://letterboxd.com/gabekangas/film/the-black-phone/)
-- [Blonde, 2022 - ★★★](https://letterboxd.com/gabekangas/film/blonde-2022/)
 
 #### Contact me
 

@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Moonage Daydream, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/moonage-daydream/)
 - [Three Thousand Years of Longing, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/three-thousand-years-of-longing/)
 - [Fall, 2022 - ★★](https://letterboxd.com/gabekangas/film/fall-2022/)
-- [The Black Phone, 2021 - ★★★](https://letterboxd.com/gabekangas/film/the-black-phone/)
 
 #### Contact me
 

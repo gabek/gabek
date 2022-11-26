@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [The Menu, 2022 - ★★★](https://letterboxd.com/gabekangas/film/the-menu-2022/)
 - [Moonage Daydream, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/moonage-daydream/)
 - [Three Thousand Years of Longing, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/three-thousand-years-of-longing/)
-- [Fall, 2022 - ★★](https://letterboxd.com/gabekangas/film/fall-2022/)
 
 #### Contact me
 

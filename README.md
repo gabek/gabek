@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Phantom of the Paradise, 1974 - ★★](https://letterboxd.com/gabekangas/film/phantom-of-the-paradise/)
 - [The Menu, 2022 - ★★★](https://letterboxd.com/gabekangas/film/the-menu-2022/)
 - [Moonage Daydream, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/moonage-daydream/)
-- [Three Thousand Years of Longing, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/three-thousand-years-of-longing/)
 
 #### Contact me
 

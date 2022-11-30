@@ -2,8 +2,8 @@
 
 #### Check out some of what I'm working on
 
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [owncast/.github](https://github.com/owncast/.github) - Owncast GitHub profile
 - [gabek/openbuilders](https://github.com/gabek/openbuilders) - Simple splash page for openbuilders.club
 - [owncast/playout-example](https://github.com/owncast/playout-example) - An example of a 24/7 stream powered by Owncast &#43; ffplayout

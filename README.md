@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Something in the Dirt, 2022 - ★★★★](https://letterboxd.com/gabekangas/film/something-in-the-dirt/)
 - [Phantom of the Paradise, 1974 - ★★](https://letterboxd.com/gabekangas/film/phantom-of-the-paradise/)
 - [The Menu, 2022 - ★★★](https://letterboxd.com/gabekangas/film/the-menu-2022/)
-- [Moonage Daydream, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/moonage-daydream/)
 
 #### Contact me
 

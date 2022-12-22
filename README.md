@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [The Whale, 2022 - ★★★★](https://letterboxd.com/gabekangas/film/the-whale-2022/)
 - [Emancipation, 2022 - ★★★](https://letterboxd.com/gabekangas/film/emancipation-2022/)
 - [Something in the Dirt, 2022 - ★★★★](https://letterboxd.com/gabekangas/film/something-in-the-dirt/)
-- [Phantom of the Paradise, 1974 - ★★](https://letterboxd.com/gabekangas/film/phantom-of-the-paradise/)
 
 #### Contact me
 

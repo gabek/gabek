@@ -10,8 +10,8 @@
 
 #### Latest releases I've contributed to
 
+- [g8rswimmer/go-twitter](https://github.com/g8rswimmer/go-twitter) ([v2.1.5](https://github.com/g8rswimmer/go-twitter/releases/tag/v2.1.5)) - This is a go library for twitter v2 API integration.
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.13](https://github.com/owncast/owncast/releases/tag/v0.0.13)) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [g8rswimmer/go-twitter](https://github.com/g8rswimmer/go-twitter) ([v2.1.4](https://github.com/g8rswimmer/go-twitter/releases/tag/v2.1.4)) - This is a go library for twitter v2 API integration.
 
 #### My recent blog posts
 
@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Smile, 2022 - ★★](https://letterboxd.com/gabekangas/film/smile-2022/)
 - [Black Adam, 2022 - ★½](https://letterboxd.com/gabekangas/film/black-adam/)
 - [The Whale, 2022 - ★★★★](https://letterboxd.com/gabekangas/film/the-whale-2022/)
-- [Emancipation, 2022 - ★★★](https://letterboxd.com/gabekangas/film/emancipation-2022/)
 
 #### Contact me
 

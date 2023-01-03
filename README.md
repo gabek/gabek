@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Next Exit, 2022 - ★★★](https://letterboxd.com/gabekangas/film/next-exit-2022/)
 - [Smile, 2022 - ★★](https://letterboxd.com/gabekangas/film/smile-2022/)
 - [Black Adam, 2022 - ★½](https://letterboxd.com/gabekangas/film/black-adam/)
-- [The Whale, 2022 - ★★★★](https://letterboxd.com/gabekangas/film/the-whale-2022/)
 
 #### Contact me
 

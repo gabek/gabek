@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Harriet, 2019 - ★★½](https://letterboxd.com/gabekangas/film/harriet/)
 - [Strange Days, 1995 - ★★½](https://letterboxd.com/gabekangas/film/strange-days/)
 - [Next Exit, 2022 - ★★★](https://letterboxd.com/gabekangas/film/next-exit-2022/)
-- [Smile, 2022 - ★★](https://letterboxd.com/gabekangas/film/smile-2022/)
 
 #### Contact me
 

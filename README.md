@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Meander, 2020 - ★★½](https://letterboxd.com/gabekangas/film/meander-2021/)
 - [Don&#39;t Worry Darling, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/dont-worry-darling/)
 - [Harriet, 2019 - ★★½](https://letterboxd.com/gabekangas/film/harriet/)
-- [Strange Days, 1995 - ★★½](https://letterboxd.com/gabekangas/film/strange-days/)
 
 #### Contact me
 

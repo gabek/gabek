@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Bones and All, 2022 - ★★★★](https://letterboxd.com/gabekangas/film/bones-and-all/)
 - [Meander, 2020 - ★★½](https://letterboxd.com/gabekangas/film/meander-2021/)
 - [Don&#39;t Worry Darling, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/dont-worry-darling/)
-- [Harriet, 2019 - ★★½](https://letterboxd.com/gabekangas/film/harriet/)
 
 #### Contact me
 

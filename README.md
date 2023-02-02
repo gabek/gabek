@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Black Panther: Wakanda Forever, 2022 - ★½](https://letterboxd.com/gabekangas/film/black-panther-wakanda-forever/)
 - [Bones and All, 2022 - ★★★★](https://letterboxd.com/gabekangas/film/bones-and-all/)
 - [Meander, 2020 - ★★½](https://letterboxd.com/gabekangas/film/meander-2021/)
-- [Don&#39;t Worry Darling, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/dont-worry-darling/)
 
 #### Contact me
 

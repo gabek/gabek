@@ -14,10 +14,10 @@
 
 #### My recent blog posts
 
+- [Owncast v0.1.0 Retrospective - Redesign](https://gabekangas.com/blog/2023/02/owncast-v0.1.0-retrospective-redesign/)
 - [Common sense doesn&#39;t scale](https://gabekangas.com/blog/2022/12/common-sense-doesnt-scale/)
 - [Decentralized discovery](https://gabekangas.com/blog/2022/08/decentralized-discovery/)
 - [Ship software, not code](https://gabekangas.com/blog/2022/06/ship-software-not-code/)
-- [Being a part of a team](https://gabekangas.com/blog/2022/05/being-a-part-of-a-team/)
 
 #### Movies I've recently watched
 

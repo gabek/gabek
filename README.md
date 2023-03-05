@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Suspiria, 2018 - ★★★½](https://letterboxd.com/gabekangas/film/suspiria-2018/)
 - [Black Panther: Wakanda Forever, 2022 - ★½](https://letterboxd.com/gabekangas/film/black-panther-wakanda-forever/)
 - [Bones and All, 2022 - ★★★★](https://letterboxd.com/gabekangas/film/bones-and-all/)
-- [Meander, 2020 - ★★½](https://letterboxd.com/gabekangas/film/meander-2021/)
 
 #### Contact me
 

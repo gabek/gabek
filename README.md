@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [M3GAN, 2022 - ★★½](https://letterboxd.com/gabekangas/film/m3gan/)
 - [Pinball: The Man Who Saved the Game, 2022 - ★★](https://letterboxd.com/gabekangas/film/pinball-the-man-who-saved-the-game/)
 - [Suspiria, 2018 - ★★★½](https://letterboxd.com/gabekangas/film/suspiria-2018/)
-- [Black Panther: Wakanda Forever, 2022 - ★½](https://letterboxd.com/gabekangas/film/black-panther-wakanda-forever/)
 
 #### Contact me
 

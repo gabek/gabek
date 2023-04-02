@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Tetris, 2023 - ★½](https://letterboxd.com/gabekangas/film/tetris/)
 - [TÁR, 2022 - ★★★★](https://letterboxd.com/gabekangas/film/tar-2022/)
 - [Infinity Pool, 2023 - ★★★½](https://letterboxd.com/gabekangas/film/infinity-pool/)
-- [M3GAN, 2022 - ★★½](https://letterboxd.com/gabekangas/film/m3gan/)
 
 #### Contact me
 

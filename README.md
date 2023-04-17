@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [I Wanna Dance with Somebody, 2022 - ★★](https://letterboxd.com/gabekangas/film/i-wanna-dance-with-somebody/)
 - [Tetris, 2023 - ★½](https://letterboxd.com/gabekangas/film/tetris/)
 - [TÁR, 2022 - ★★★★](https://letterboxd.com/gabekangas/film/tar-2022/)
-- [Infinity Pool, 2023 - ★★★½](https://letterboxd.com/gabekangas/film/infinity-pool/)
 
 #### Contact me
 

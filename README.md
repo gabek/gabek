@@ -20,9 +20,9 @@
 
 #### Movies I've recently watched
 
+- [Knock at the Cabin, 2023 - ★★½](https://letterboxd.com/gabekangas/film/knock-at-the-cabin/)
 - [Big Shark, 2023 - ½](https://letterboxd.com/gabekangas/film/big-shark/)
 - [I Wanna Dance with Somebody, 2022 - ★★](https://letterboxd.com/gabekangas/film/i-wanna-dance-with-somebody/)
-- [Tetris, 2023 - ★½](https://letterboxd.com/gabekangas/film/tetris/)
 
 #### Contact me
 

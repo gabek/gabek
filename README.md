@@ -20,9 +20,9 @@
 
 #### Movies I've recently watched
 
+- [Little Richard: I Am Everything, 2023 - ★★★](https://letterboxd.com/gabekangas/film/little-richard-i-am-everything/)
 - [Knock at the Cabin, 2023 - ★★½](https://letterboxd.com/gabekangas/film/knock-at-the-cabin/)
 - [Big Shark, 2023 - ½](https://letterboxd.com/gabekangas/film/big-shark/)
-- [I Wanna Dance with Somebody, 2022 - ★★](https://letterboxd.com/gabekangas/film/i-wanna-dance-with-somebody/)
 
 #### Contact me
 

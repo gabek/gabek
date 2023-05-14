@@ -20,9 +20,9 @@
 
 #### Movies I've recently watched
 
+- [The Artifice Girl, 2022 - ★★½](https://letterboxd.com/gabekangas/film/the-artifice-girl/)
 - [Little Richard: I Am Everything, 2023 - ★★★](https://letterboxd.com/gabekangas/film/little-richard-i-am-everything/)
 - [Knock at the Cabin, 2023 - ★★½](https://letterboxd.com/gabekangas/film/knock-at-the-cabin/)
-- [Big Shark, 2023 - ½](https://letterboxd.com/gabekangas/film/big-shark/)
 
 #### Contact me
 

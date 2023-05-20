@@ -20,9 +20,9 @@
 
 #### Movies I've recently watched
 
+- [Ant-Man and the Wasp: Quantumania, 2023 - ★½](https://letterboxd.com/gabekangas/film/ant-man-and-the-wasp-quantumania/)
 - [tick, tick...BOOM!, 2021 - ★★★½](https://letterboxd.com/gabekangas/film/tick-tick-boom-2021/)
 - [The Artifice Girl, 2022 - ★★½](https://letterboxd.com/gabekangas/film/the-artifice-girl/)
-- [Little Richard: I Am Everything, 2023 - ★★★](https://letterboxd.com/gabekangas/film/little-richard-i-am-everything/)
 
 #### Contact me
 

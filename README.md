@@ -2,8 +2,8 @@
 
 #### Check out some of what I'm working on
 
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [gabek/gabekangas.com](https://github.com/gabek/gabekangas.com) - My personal web site at https://gabekangas.com.
 - [gabek/fedidocs](https://github.com/gabek/fedidocs) - Documentation for the Fediverse
 - [owncast/.github](https://github.com/owncast/.github) - Owncast GitHub profile
@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [BlackBerry, 2023 - ★★★½](https://letterboxd.com/gabekangas/film/blackberry-2023/)
 - [Ant-Man and the Wasp: Quantumania, 2023 - ★½](https://letterboxd.com/gabekangas/film/ant-man-and-the-wasp-quantumania/)
 - [tick, tick...BOOM!, 2021 - ★★★½](https://letterboxd.com/gabekangas/film/tick-tick-boom-2021/)
-- [The Artifice Girl, 2022 - ★★½](https://letterboxd.com/gabekangas/film/the-artifice-girl/)
 
 #### Contact me
 

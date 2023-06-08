@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Air, 2023 - ★★½](https://letterboxd.com/gabekangas/film/air-2023/)
 - [Dungeons &amp; Dragons: Honor Among Thieves, 2023 - ★★½](https://letterboxd.com/gabekangas/film/dungeons-dragons-honor-among-thieves/)
 - [BlackBerry, 2023 - ★★★½](https://letterboxd.com/gabekangas/film/blackberry-2023/)
-- [Ant-Man and the Wasp: Quantumania, 2023 - ★½](https://letterboxd.com/gabekangas/film/ant-man-and-the-wasp-quantumania/)
 
 #### Contact me
 

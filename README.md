@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Inside, 2023 - ★★★★](https://letterboxd.com/gabekangas/film/inside-2023/)
 - [Avatar: The Way of Water, 2022 - ★★★](https://letterboxd.com/gabekangas/film/avatar-the-way-of-water/)
 - [Air, 2023 - ★★½](https://letterboxd.com/gabekangas/film/air-2023/)
-- [Dungeons &amp; Dragons: Honor Among Thieves, 2023 - ★★½](https://letterboxd.com/gabekangas/film/dungeons-dragons-honor-among-thieves/)
 
 #### Contact me
 

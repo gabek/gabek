@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [John Wick: Chapter 4, 2023 - ★★★½](https://letterboxd.com/gabekangas/film/john-wick-chapter-4/)
 - [Inside, 2023 - ★★★★](https://letterboxd.com/gabekangas/film/inside-2023/)
 - [Avatar: The Way of Water, 2022 - ★★★](https://letterboxd.com/gabekangas/film/avatar-the-way-of-water/)
-- [Air, 2023 - ★★½](https://letterboxd.com/gabekangas/film/air-2023/)
 
 #### Contact me
 

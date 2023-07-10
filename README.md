@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Babylon, 2022 - ★★](https://letterboxd.com/gabekangas/film/babylon-2022/)
 - [Biosphere, 2022 - ★★★★](https://letterboxd.com/gabekangas/film/biosphere-2022/)
 - [Pearl, 2022 - ★★★★](https://letterboxd.com/gabekangas/film/pearl-2022/)
-- [X, 2022 - ★★★](https://letterboxd.com/gabekangas/film/x-2022/)
 
 #### Contact me
 

@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Biosphere, 2022 - ★★★★](https://letterboxd.com/gabekangas/film/biosphere-2022/)
 - [Pearl, 2022 - ★★★★](https://letterboxd.com/gabekangas/film/pearl-2022/)
 - [X, 2022 - ★★★](https://letterboxd.com/gabekangas/film/x-2022/)
-- [John Wick: Chapter 4, 2023 - ★★★½](https://letterboxd.com/gabekangas/film/john-wick-chapter-4/)
 
 #### Contact me
 

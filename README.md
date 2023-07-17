@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [The Super Mario Bros. Movie, 2023 - ★½](https://letterboxd.com/gabekangas/film/the-super-mario-bros-movie/)
 - [Babylon, 2022 - ★★](https://letterboxd.com/gabekangas/film/babylon-2022/)
 - [Biosphere, 2022 - ★★★★](https://letterboxd.com/gabekangas/film/biosphere-2022/)
-- [Pearl, 2022 - ★★★★](https://letterboxd.com/gabekangas/film/pearl-2022/)
 
 #### Contact me
 

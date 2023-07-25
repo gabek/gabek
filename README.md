@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [One Flew Over the Cuckoo&#39;s Nest, 1975 - ★★★](https://letterboxd.com/gabekangas/film/one-flew-over-the-cuckoos-nest/)
 - [The Super Mario Bros. Movie, 2023 - ★½](https://letterboxd.com/gabekangas/film/the-super-mario-bros-movie/)
 - [Babylon, 2022 - ★★](https://letterboxd.com/gabekangas/film/babylon-2022/)
-- [Biosphere, 2022 - ★★★★](https://letterboxd.com/gabekangas/film/biosphere-2022/)
 
 #### Contact me
 

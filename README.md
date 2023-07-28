@@ -10,6 +10,7 @@
 
 #### Latest releases I've contributed to
 
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.1.1](https://github.com/owncast/owncast/releases/tag/v0.1.1)) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 
 #### My recent blog posts
 

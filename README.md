@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Guardians of the Galaxy Vol. 3, 2023 - ★★½](https://letterboxd.com/gabekangas/film/guardians-of-the-galaxy-vol-3/)
 - [Oppenheimer, 2023 - ★★★★](https://letterboxd.com/gabekangas/film/oppenheimer-2023/)
 - [Barbie, 2023 - ★★★½](https://letterboxd.com/gabekangas/film/barbie/)
-- [One Flew Over the Cuckoo&#39;s Nest, 1975 - ★★★](https://letterboxd.com/gabekangas/film/one-flew-over-the-cuckoos-nest/)
 
 #### Contact me
 

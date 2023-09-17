@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [The Little Mermaid, 2023 - ★½](https://letterboxd.com/gabekangas/film/the-little-mermaid-2023/)
 - [Guardians of the Galaxy Vol. 3, 2023 - ★★½](https://letterboxd.com/gabekangas/film/guardians-of-the-galaxy-vol-3/)
 - [Oppenheimer, 2023 - ★★★★](https://letterboxd.com/gabekangas/film/oppenheimer-2023/)
-- [Barbie, 2023 - ★★★½](https://letterboxd.com/gabekangas/film/barbie/)
 
 #### Contact me
 

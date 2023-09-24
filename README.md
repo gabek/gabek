@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [No Hard Feelings, 2023 - ★★](https://letterboxd.com/gabekangas/film/no-hard-feelings-2023/)
 - [Asteroid City, 2023 - ★★](https://letterboxd.com/gabekangas/film/asteroid-city/)
 - [The Little Mermaid, 2023 - ★½](https://letterboxd.com/gabekangas/film/the-little-mermaid-2023/)
-- [Guardians of the Galaxy Vol. 3, 2023 - ★★½](https://letterboxd.com/gabekangas/film/guardians-of-the-galaxy-vol-3/)
 
 #### Contact me
 

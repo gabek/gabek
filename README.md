@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Cocaine Bear, 2023 - ½](https://letterboxd.com/gabekangas/film/cocaine-bear/)
 - [Hereditary, 2018 - ★★★](https://letterboxd.com/gabekangas/film/hereditary/)
 - [No Hard Feelings, 2023 - ★★](https://letterboxd.com/gabekangas/film/no-hard-feelings-2023/)
-- [Asteroid City, 2023 - ★★](https://letterboxd.com/gabekangas/film/asteroid-city/)
 
 #### Contact me
 

@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [The Making of Indiana Jones and the Dial of Destiny, 2023 - ★★★★](https://letterboxd.com/gabekangas/film/the-making-of-indiana-jones-and-the-dial-of-destiny/)
+- [Fast X, 2023 - ★½](https://letterboxd.com/gabekangas/film/fast-x/)
 - [Five Nights at Freddy&#39;s, 2023 - ★½](https://letterboxd.com/gabekangas/film/five-nights-at-freddys/)
-- [Cocaine Bear, 2023 - ½](https://letterboxd.com/gabekangas/film/cocaine-bear/)
-- [Hereditary, 2018 - ★★★](https://letterboxd.com/gabekangas/film/hereditary/)
 
 #### Contact me
 

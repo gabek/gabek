@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [The Creator, 2023 - ★★★★½](https://letterboxd.com/gabekangas/film/the-creator-2023/)
 - [Indiana Jones and the Dial of Destiny, 2023 - ★★★★](https://letterboxd.com/gabekangas/film/indiana-jones-and-the-dial-of-destiny/)
 - [Fast X, 2023 - ★½](https://letterboxd.com/gabekangas/film/fast-x/)
-- [Five Nights at Freddy&#39;s, 2023 - ★½](https://letterboxd.com/gabekangas/film/five-nights-at-freddys/)
 
 #### Contact me
 

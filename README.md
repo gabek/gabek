@@ -15,10 +15,10 @@
 
 #### My recent blog posts
 
+- [Owncasts - A new iOS and tvOS application for viewing Owncast-powered live video streams](https://gabekangas.com/blog/2024/01/owncasts-a-new-ios-and-tvos-application-for-viewing-owncast-powered-live-video-streams/)
 - [Thank you for making Owncast a success in 2023](https://gabekangas.com/blog/2024/01/thank-you-for-making-owncast-a-success-in-2023/)
 - [Upcoming Owncast features](https://gabekangas.com/blog/2023/04/upcoming-owncast-features/)
 - [Owncast v0.1.0 Retrospective - Frontend Web Rewrite](https://gabekangas.com/blog/2023/02/owncast-v0.1.0-retrospective-frontend-web-rewrite/)
-- [Owncast v0.1.0 Retrospective - Redesign](https://gabekangas.com/blog/2023/02/owncast-v0.1.0-retrospective-redesign/)
 
 #### Movies I've recently watched
 

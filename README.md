@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Napoleon, 2023 - ★★½](https://letterboxd.com/gabekangas/film/napoleon-2023/)
 - [The Hunger Games: The Ballad of Songbirds &amp; Snakes, 2023 - ★★½](https://letterboxd.com/gabekangas/film/the-hunger-games-the-ballad-of-songbirds-snakes/)
 - [Apt Pupil, 1998 - ★★★](https://letterboxd.com/gabekangas/film/apt-pupil/)
-- [The Creator, 2023 - ★★★★½](https://letterboxd.com/gabekangas/film/the-creator-2023/)
 
 #### Contact me
 

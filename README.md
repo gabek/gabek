@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Priscilla, 2023 - ★★★½](https://letterboxd.com/gabekangas/film/priscilla/)
 - [Rebel Moon - Part One: A Child of Fire, 2023 - ★★★½](https://letterboxd.com/gabekangas/film/rebel-moon-part-one-a-child-of-fire/)
 - [Napoleon, 2023 - ★★½](https://letterboxd.com/gabekangas/film/napoleon-2023/)
-- [The Hunger Games: The Ballad of Songbirds &amp; Snakes, 2023 - ★★½](https://letterboxd.com/gabekangas/film/the-hunger-games-the-ballad-of-songbirds-snakes/)
 
 #### Contact me
 

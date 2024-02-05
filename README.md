@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Saltburn, 2023 - ★★★★](https://letterboxd.com/gabekangas/film/saltburn/)
 - [Wonka, 2023 - ★½](https://letterboxd.com/gabekangas/film/wonka/)
 - [Priscilla, 2023 - ★★★½](https://letterboxd.com/gabekangas/film/priscilla/)
-- [Rebel Moon - Part One: A Child of Fire, 2023 - ★★★½](https://letterboxd.com/gabekangas/film/rebel-moon-part-one-a-child-of-fire/)
 
 #### Contact me
 

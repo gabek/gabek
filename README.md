@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [The Last Waltz, 1978](https://letterboxd.com/gabekangas/film/the-last-waltz/)
 - [Saltburn, 2023 - ★★★★](https://letterboxd.com/gabekangas/film/saltburn/)
 - [Wonka, 2023 - ★½](https://letterboxd.com/gabekangas/film/wonka/)
-- [Priscilla, 2023 - ★★★½](https://letterboxd.com/gabekangas/film/priscilla/)
 
 #### Contact me
 

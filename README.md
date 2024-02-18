@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Love &amp; Mercy, 2014 - ★★★★](https://letterboxd.com/gabekangas/film/love-mercy/)
 - [The Last Waltz, 1978](https://letterboxd.com/gabekangas/film/the-last-waltz/)
 - [Saltburn, 2023 - ★★★★](https://letterboxd.com/gabekangas/film/saltburn/)
-- [Wonka, 2023 - ★½](https://letterboxd.com/gabekangas/film/wonka/)
 
 #### Contact me
 

@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Dune: Part Two, 2024 - ★★★★](https://letterboxd.com/gabekangas/film/dune-part-two/)
 - [Dream Scenario, 2023 - ★★★★](https://letterboxd.com/gabekangas/film/dream-scenario/)
 - [Love &amp; Mercy, 2014 - ★★★★](https://letterboxd.com/gabekangas/film/love-mercy/)
-- [The Last Waltz, 1978](https://letterboxd.com/gabekangas/film/the-last-waltz/)
 
 #### Contact me
 

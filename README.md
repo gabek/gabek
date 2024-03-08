@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Poor Things, 2023 - ★★★★½](https://letterboxd.com/gabekangas/film/poor-things-2023/)
 - [Dune: Part Two, 2024 - ★★★★](https://letterboxd.com/gabekangas/film/dune-part-two/)
 - [Dream Scenario, 2023 - ★★★★](https://letterboxd.com/gabekangas/film/dream-scenario/)
-- [Love &amp; Mercy, 2014 - ★★★★](https://letterboxd.com/gabekangas/film/love-mercy/)
 
 #### Contact me
 

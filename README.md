@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [One Love, 2003 - ★★](https://letterboxd.com/gabekangas/film/one-love/)
 - [The Zone of Interest, 2023 - ★★★½](https://letterboxd.com/gabekangas/film/the-zone-of-interest/)
 - [Poor Things, 2023 - ★★★★½](https://letterboxd.com/gabekangas/film/poor-things-2023/)
-- [Dune: Part Two, 2024 - ★★★★](https://letterboxd.com/gabekangas/film/dune-part-two/)
 
 #### Contact me
 

@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [How to Have Sex, 2023 - ★★★](https://letterboxd.com/gabekangas/film/how-to-have-sex/)
 - [Bob Marley: One Love, 2024 - ★★](https://letterboxd.com/gabekangas/film/bob-marley-one-love/)
 - [One Love, 2003 - ★★](https://letterboxd.com/gabekangas/film/one-love/)
-- [The Zone of Interest, 2023 - ★★★½](https://letterboxd.com/gabekangas/film/the-zone-of-interest/)
 
 #### Contact me
 

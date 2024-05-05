@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [American Fiction, 2023 - ★★★](https://letterboxd.com/gabekangas/film/american-fiction/)
 - [How to Have Sex, 2023 - ★★★](https://letterboxd.com/gabekangas/film/how-to-have-sex/)
 - [Bob Marley: One Love, 2024 - ★★](https://letterboxd.com/gabekangas/film/bob-marley-one-love/)
-- [One Love, 2003 - ★★](https://letterboxd.com/gabekangas/film/one-love/)
 
 #### Contact me
 

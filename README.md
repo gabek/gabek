@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Rebel Moon - Part Two: The Scargiver, 2024 - ★★](https://letterboxd.com/gabekangas/film/rebel-moon-part-two-the-scargiver/)
 - [American Fiction, 2023 - ★★★](https://letterboxd.com/gabekangas/film/american-fiction/)
 - [How to Have Sex, 2023 - ★★★](https://letterboxd.com/gabekangas/film/how-to-have-sex/)
-- [Bob Marley: One Love, 2024 - ★★](https://letterboxd.com/gabekangas/film/bob-marley-one-love/)
 
 #### Contact me
 

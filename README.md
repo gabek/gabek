@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [I Am: Celine Dion, 2024 - ★★](https://letterboxd.com/gabekangas/film/i-am-celine-dion/)
 - [Conspiracy, 2001 - ★★½](https://letterboxd.com/gabekangas/film/conspiracy/)
 - [Let It Be, 1970 - ★★★½](https://letterboxd.com/gabekangas/film/let-it-be/)
-- [Rebel Moon – Part Two: The Scargiver, 2024 - ★★](https://letterboxd.com/gabekangas/film/rebel-moon-part-two-the-scargiver/)
 
 #### Contact me
 

@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [S. Darko, 2009 - ★](https://letterboxd.com/gabekangas/film/s-darko/1/)
 - [I Am: Celine Dion, 2024 - ★★](https://letterboxd.com/gabekangas/film/i-am-celine-dion/)
 - [Conspiracy, 2001 - ★★½](https://letterboxd.com/gabekangas/film/conspiracy/)
-- [Let It Be, 1970 - ★★★½](https://letterboxd.com/gabekangas/film/let-it-be/)
 
 #### Contact me
 

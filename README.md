@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Ghostbusters: Frozen Empire, 2024 - ★★½](https://letterboxd.com/gabekangas/film/ghostbusters-frozen-empire/)
 - [Civil War, 2024 - ★★★](https://letterboxd.com/gabekangas/film/civil-war-2024/)
 - [S. Darko, 2009 - ★](https://letterboxd.com/gabekangas/film/s-darko/1/)
-- [I Am: Celine Dion, 2024 - ★★](https://letterboxd.com/gabekangas/film/i-am-celine-dion/)
 
 #### Contact me
 

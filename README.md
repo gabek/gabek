@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [I Saw the TV Glow, 2024 - ★★★★½](https://letterboxd.com/gabekangas/film/i-saw-the-tv-glow/)
 - [Challengers, 2024 - ★★★½](https://letterboxd.com/gabekangas/film/challengers/)
 - [Ghostbusters: Frozen Empire, 2024 - ★★½](https://letterboxd.com/gabekangas/film/ghostbusters-frozen-empire/)
-- [Civil War, 2024 - ★★★](https://letterboxd.com/gabekangas/film/civil-war-2024/)
 
 #### Contact me
 

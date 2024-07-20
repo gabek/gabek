@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Kingdom of the Planet of the Apes, 2024 - ★★★](https://letterboxd.com/gabekangas/film/kingdom-of-the-planet-of-the-apes/)
 - [I Saw the TV Glow, 2024 - ★★★★½](https://letterboxd.com/gabekangas/film/i-saw-the-tv-glow/)
 - [Challengers, 2024 - ★★★½](https://letterboxd.com/gabekangas/film/challengers/)
-- [Ghostbusters: Frozen Empire, 2024 - ★★½](https://letterboxd.com/gabekangas/film/ghostbusters-frozen-empire/)
 
 #### Contact me
 

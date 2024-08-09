@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Liberation Day, 2016 - ★★★★](https://letterboxd.com/gabekangas/film/liberation-day/)
 - [The Wrestler, 2008 - ★★★★](https://letterboxd.com/gabekangas/film/the-wrestler/)
 - [Furiosa: A Mad Max Saga, 2024 - ★★½](https://letterboxd.com/gabekangas/film/furiosa-a-mad-max-saga/)
-- [Kingdom of the Planet of the Apes, 2024 - ★★★](https://letterboxd.com/gabekangas/film/kingdom-of-the-planet-of-the-apes/)
 
 #### Contact me
 

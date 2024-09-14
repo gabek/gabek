@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
-- [Liberation Day, 2016 - ★★★★](https://letterboxd.com/gabekangas/film/liberation-day/)
-- [The Wrestler, 2008 - ★★★★](https://letterboxd.com/gabekangas/film/the-wrestler/)
-- [Furiosa: A Mad Max Saga, 2024 - ★★½](https://letterboxd.com/gabekangas/film/furiosa-a-mad-max-saga/)
+- [Back to Black, 2024 - ★★](https://letterboxd.com/gabekangas/film/back-to-black/)
+- [Beyond the Wasteland, 2022 - ★★](https://letterboxd.com/gabekangas/film/beyond-the-wasteland/)
+- [A Quiet Place: Day One, 2024 - ★★](https://letterboxd.com/gabekangas/film/a-quiet-place-day-one/)
 
 #### Contact me
 

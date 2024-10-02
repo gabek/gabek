@@ -20,9 +20,9 @@
 
 #### Movies I've recently watched
 
+- [Megalopolis, 2024 - ★★](https://letterboxd.com/gabekangas/film/megalopolis-2024/)
 - [Back to Black, 2024 - ★★](https://letterboxd.com/gabekangas/film/back-to-black/)
 - [Beyond the Wasteland, 2022 - ★★](https://letterboxd.com/gabekangas/film/beyond-the-wasteland/)
-- [A Quiet Place: Day One, 2024 - ★★](https://letterboxd.com/gabekangas/film/a-quiet-place-day-one/)
 
 #### Contact me
 

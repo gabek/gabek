@@ -20,9 +20,9 @@
 
 #### Movies I've recently watched
 
+- [Deadpool &amp; Wolverine, 2024 - ★★½](https://letterboxd.com/gabekangas/film/deadpool-wolverine/)
 - [Megalopolis, 2024 - ★★](https://letterboxd.com/gabekangas/film/megalopolis-2024/)
 - [Back to Black, 2024 - ★★](https://letterboxd.com/gabekangas/film/back-to-black/)
-- [Beyond the Wasteland, 2022 - ★★](https://letterboxd.com/gabekangas/film/beyond-the-wasteland/)
 
 #### Contact me
 

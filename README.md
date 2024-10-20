@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [The Last Voyage of the Demeter, 2023 - ★★](https://letterboxd.com/gabekangas/film/the-last-voyage-of-the-demeter/)
 - [Slingshot, 2024 - ★★★](https://letterboxd.com/gabekangas/film/slingshot-2024/)
 - [Deadpool &amp; Wolverine, 2024 - ★★½](https://letterboxd.com/gabekangas/film/deadpool-wolverine/)
-- [Megalopolis, 2024 - ★★](https://letterboxd.com/gabekangas/film/megalopolis-2024/)
 
 #### Contact me
 

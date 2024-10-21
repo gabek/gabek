@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Talk to Me, 2022 - ★★★](https://letterboxd.com/gabekangas/film/talk-to-me-2022/)
 - [The Last Voyage of the Demeter, 2023 - ★★](https://letterboxd.com/gabekangas/film/the-last-voyage-of-the-demeter/)
 - [Slingshot, 2024 - ★★★](https://letterboxd.com/gabekangas/film/slingshot-2024/)
-- [Deadpool &amp; Wolverine, 2024 - ★★½](https://letterboxd.com/gabekangas/film/deadpool-wolverine/)
 
 #### Contact me
 

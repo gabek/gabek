@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Joker: Folie à Deux, 2024 - ★★](https://letterboxd.com/gabekangas/film/joker-folie-a-deux/)
 - [The Apprentice, 2024 - ★★★](https://letterboxd.com/gabekangas/film/the-apprentice-2024/)
 - [Borderlands, 2024 - ★½](https://letterboxd.com/gabekangas/film/borderlands-2024/)
-- [Talk to Me, 2022 - ★★★](https://letterboxd.com/gabekangas/film/talk-to-me-2022/)
 
 #### Contact me
 

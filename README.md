@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Alien: Romulus, 2024 - ★★★½](https://letterboxd.com/gabekangas/film/alien-romulus/)
 - [Joker: Folie à Deux, 2024 - ★★](https://letterboxd.com/gabekangas/film/joker-folie-a-deux/)
 - [The Apprentice, 2024 - ★★★](https://letterboxd.com/gabekangas/film/the-apprentice-2024/)
-- [Borderlands, 2024 - ★½](https://letterboxd.com/gabekangas/film/borderlands-2024/)
 
 #### Contact me
 

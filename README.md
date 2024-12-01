@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Conclave, 2024 - ★★★★](https://letterboxd.com/gabekangas/film/conclave/)
 - [Beetlejuice Beetlejuice, 2024 - ★★★★](https://letterboxd.com/gabekangas/film/beetlejuice-beetlejuice/)
 - [Alien: Romulus, 2024 - ★★★½](https://letterboxd.com/gabekangas/film/alien-romulus/)
-- [Joker: Folie à Deux, 2024 - ★★](https://letterboxd.com/gabekangas/film/joker-folie-a-deux/)
 
 #### Contact me
 

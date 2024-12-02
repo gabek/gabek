@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Nothing Compares, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/nothing-compares/)
 - [Conclave, 2024 - ★★★★](https://letterboxd.com/gabekangas/film/conclave/)
 - [Beetlejuice Beetlejuice, 2024 - ★★★★](https://letterboxd.com/gabekangas/film/beetlejuice-beetlejuice/)
-- [Alien: Romulus, 2024 - ★★★½](https://letterboxd.com/gabekangas/film/alien-romulus/)
 
 #### Contact me
 

@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Venom: The Last Dance, 2024 - ★★★](https://letterboxd.com/gabekangas/film/venom-the-last-dance/)
 - [Nothing Compares, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/nothing-compares/)
 - [Conclave, 2024 - ★★★★](https://letterboxd.com/gabekangas/film/conclave/)
-- [Beetlejuice Beetlejuice, 2024 - ★★★★](https://letterboxd.com/gabekangas/film/beetlejuice-beetlejuice/)
 
 #### Contact me
 

@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Smile 2, 2024 - ★★★](https://letterboxd.com/gabekangas/film/smile-2-2024/)
 - [Saturday Night, 2024 - ½](https://letterboxd.com/gabekangas/film/saturday-night-2024/)
 - [Venom: The Last Dance, 2024 - ★★★](https://letterboxd.com/gabekangas/film/venom-the-last-dance/)
-- [Nothing Compares, 2022 - ★★★½](https://letterboxd.com/gabekangas/film/nothing-compares/)
 
 #### Contact me
 

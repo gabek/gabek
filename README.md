@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Kraven the Hunter, 2024 - ★](https://letterboxd.com/gabekangas/film/kraven-the-hunter/)
 - [Wicked, 2024 - ★](https://letterboxd.com/gabekangas/film/wicked-2024/)
 - [Gladiator II, 2024 - ★★½](https://letterboxd.com/gabekangas/film/gladiator-ii/)
-- [Heretic, 2024 - ★★½](https://letterboxd.com/gabekangas/film/heretic-2024/)
 
 #### Contact me
 

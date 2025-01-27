@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [A Different Man, 2024 - ★★½](https://letterboxd.com/gabekangas/film/a-different-man/)
+- [The Age of Adaline, 2015 - ★★★](https://letterboxd.com/gabekangas/film/the-age-of-adaline/)
 - [The Substance, 2024 - ★★★★½](https://letterboxd.com/gabekangas/film/the-substance/)
-- [Kraven the Hunter, 2024 - ★](https://letterboxd.com/gabekangas/film/kraven-the-hunter/)
-- [Wicked, 2024 - ★](https://letterboxd.com/gabekangas/film/wicked-2024/)
 
 #### Contact me
 

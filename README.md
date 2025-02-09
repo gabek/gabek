@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Fly Me to the Moon, 2024 - ★★★½](https://letterboxd.com/gabekangas/film/fly-me-to-the-moon-2024/)
 - [Nosferatu, 2024 - ★★★](https://letterboxd.com/gabekangas/film/nosferatu-2024/)
 - [A Different Man, 2024 - ★★½](https://letterboxd.com/gabekangas/film/a-different-man/)
-- [The Age of Adaline, 2015 - ★★★](https://letterboxd.com/gabekangas/film/the-age-of-adaline/)
 
 #### Contact me
 

@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Subservience, 2024 - ★★](https://letterboxd.com/gabekangas/film/subservience-2024/)
 - [The Brutalist, 2024 - ★★★½](https://letterboxd.com/gabekangas/film/the-brutalist/)
 - [A Complete Unknown, 2024 - ★★★★](https://letterboxd.com/gabekangas/film/a-complete-unknown/)
-- [Fly Me to the Moon, 2024 - ★★★½](https://letterboxd.com/gabekangas/film/fly-me-to-the-moon-2024/)
 
 #### Contact me
 

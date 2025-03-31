@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Anora, 2024 - ★★★½](https://letterboxd.com/gabekangas/film/anora/)
 - [One Hour Photo, 2002 - ★★★½](https://letterboxd.com/gabekangas/film/one-hour-photo/)
 - [Subservience, 2024 - ★★](https://letterboxd.com/gabekangas/film/subservience-2024/)
-- [The Brutalist, 2024 - ★★★½](https://letterboxd.com/gabekangas/film/the-brutalist/)
 
 #### Contact me
 

@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Bird Box Barcelona, 2023 - ★★★](https://letterboxd.com/gabekangas/film/bird-box-barcelona/)
 - [Anora, 2024 - ★★★½](https://letterboxd.com/gabekangas/film/anora/)
 - [One Hour Photo, 2002 - ★★★½](https://letterboxd.com/gabekangas/film/one-hour-photo/)
-- [Subservience, 2024 - ★★](https://letterboxd.com/gabekangas/film/subservience-2024/)
 
 #### Contact me
 

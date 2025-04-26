@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Groove, 2000 - ★★★](https://letterboxd.com/gabekangas/film/groove/)
 - [Bird Box Barcelona, 2023 - ★★★](https://letterboxd.com/gabekangas/film/bird-box-barcelona/)
 - [Anora, 2024 - ★★★½](https://letterboxd.com/gabekangas/film/anora/)
-- [One Hour Photo, 2002 - ★★★½](https://letterboxd.com/gabekangas/film/one-hour-photo/)
 
 #### Contact me
 

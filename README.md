@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Companion, 2025 - ★★½](https://letterboxd.com/gabekangas/film/companion-2025/)
 - [Groove, 2000 - ★★★](https://letterboxd.com/gabekangas/film/groove/)
 - [Bird Box Barcelona, 2023 - ★★★](https://letterboxd.com/gabekangas/film/bird-box-barcelona/)
-- [Anora, 2024 - ★★★½](https://letterboxd.com/gabekangas/film/anora/)
 
 #### Contact me
 

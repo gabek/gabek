@@ -3,8 +3,8 @@
 #### Check out some of what I'm working on
 
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [gabek/gabekangas.com](https://github.com/gabek/gabekangas.com) - My personal web site at https://gabekangas.com.
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [owncast/ffmpeg-builds](https://github.com/owncast/ffmpeg-builds) - 
 - [nicknisi/astro-talk](https://github.com/nicknisi/astro-talk) - 
 
@@ -15,10 +15,10 @@
 
 #### My recent blog posts
 
+- [Five Years of Owncast](https://gabekangas.com/blog/2025/05/five-years-of-owncast/)
 - [Today marks four years of Owncast](https://gabekangas.com/blog/2024/05/today-marks-four-years-of-owncast/)
 - [Owncasts - A new iOS and tvOS application for viewing Owncast-powered live video streams](https://gabekangas.com/blog/2024/01/owncasts-a-new-ios-and-tvos-application-for-viewing-owncast-powered-live-video-streams/)
 - [Thank you for making Owncast a success in 2023](https://gabekangas.com/blog/2024/01/thank-you-for-making-owncast-a-success-in-2023/)
-- [Upcoming Owncast features](https://gabekangas.com/blog/2023/04/upcoming-owncast-features/)
 
 #### Movies I've recently watched
 

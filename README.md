@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Sinners, 2025 - ★★★★½](https://letterboxd.com/gabekangas/film/sinners-2025/)
 - [Mickey 17, 2025 - ★★★](https://letterboxd.com/gabekangas/film/mickey-17/)
 - [Companion, 2025 - ★★½](https://letterboxd.com/gabekangas/film/companion-2025/)
-- [Groove, 2000 - ★★★](https://letterboxd.com/gabekangas/film/groove/)
 
 #### Contact me
 

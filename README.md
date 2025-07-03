@@ -3,8 +3,8 @@
 #### Check out some of what I'm working on
 
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
-- [owncast/stream-latency-compensator](https://github.com/owncast/stream-latency-compensator) - Attempt to minimize latency when using videojs http streaming. 
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [owncast/stream-latency-compensator](https://github.com/owncast/stream-latency-compensator) - Attempt to minimize latency when using videojs http streaming. 
 - [gabek/gabekangas.com](https://github.com/gabek/gabekangas.com) - My personal web site at https://gabekangas.com.
 - [owncast/ffmpeg-builds](https://github.com/owncast/ffmpeg-builds) - 
 

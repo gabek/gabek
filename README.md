@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [The Old Guard 2, 2025 - ★★★](https://letterboxd.com/gabekangas/film/the-old-guard-2/)
 - [Sinners, 2025 - ★★★★½](https://letterboxd.com/gabekangas/film/sinners-2025/)
 - [Mickey 17, 2025 - ★★★](https://letterboxd.com/gabekangas/film/mickey-17/)
-- [Companion, 2025 - ★★½](https://letterboxd.com/gabekangas/film/companion-2025/)
 
 #### Contact me
 

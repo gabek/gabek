@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Thunderbolts*, 2025 - ★★½](https://letterboxd.com/gabekangas/film/thunderbolts/)
 - [Ghost Dog: The Way of the Samurai, 1999 - ★★★](https://letterboxd.com/gabekangas/film/ghost-dog-the-way-of-the-samurai/)
 - [The Old Guard 2, 2025 - ★★★](https://letterboxd.com/gabekangas/film/the-old-guard-2/)
-- [Sinners, 2025 - ★★★★½](https://letterboxd.com/gabekangas/film/sinners-2025/)
 
 #### Contact me
 

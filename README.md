@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [28 Years Later, 2025 - ★★½](https://letterboxd.com/gabekangas/film/28-years-later/1/)
+- [28 Years Later, 2025 - ★★½](https://letterboxd.com/gabekangas/film/28-years-later/)
 - [Death of a Unicorn, 2025 - ★★★](https://letterboxd.com/gabekangas/film/death-of-a-unicorn/)
-- [Thunderbolts*, 2025 - ★★½](https://letterboxd.com/gabekangas/film/thunderbolts/)
-- [Ghost Dog: The Way of the Samurai, 1999 - ★★★](https://letterboxd.com/gabekangas/film/ghost-dog-the-way-of-the-samurai/)
 
 #### Contact me
 

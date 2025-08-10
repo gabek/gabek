@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Becoming Led Zeppelin, 2025 - ★★★](https://letterboxd.com/gabekangas/film/becoming-led-zeppelin/)
 - [M3GAN 2.0, 2025 - ★½](https://letterboxd.com/gabekangas/film/m3gan-20/)
 - [28 Years Later, 2025 - ★★½](https://letterboxd.com/gabekangas/film/28-years-later/1/)
-- [Death of a Unicorn, 2025 - ★★★](https://letterboxd.com/gabekangas/film/death-of-a-unicorn/)
 
 #### Contact me
 

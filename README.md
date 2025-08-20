@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Resynator, 2024 - ★½](https://letterboxd.com/gabekangas/film/resynator/)
+- [Captain America: Brave New World, 2025 - ★★](https://letterboxd.com/gabekangas/film/captain-america-brave-new-world/)
 - [Jurassic World Rebirth, 2025 - ★★](https://letterboxd.com/gabekangas/film/jurassic-world-rebirth/)
-- [Becoming Led Zeppelin, 2025 - ★★★](https://letterboxd.com/gabekangas/film/becoming-led-zeppelin/)
-- [M3GAN 2.0, 2025 - ★½](https://letterboxd.com/gabekangas/film/m3gan-20/)
 
 #### Contact me
 

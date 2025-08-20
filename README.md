@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Godzilla Minus One, 2023 - ★★★★](https://letterboxd.com/gabekangas/film/godzilla-minus-one/)
 - [Resynator, 2024 - ★½](https://letterboxd.com/gabekangas/film/resynator/)
 - [Captain America: Brave New World, 2025 - ★★](https://letterboxd.com/gabekangas/film/captain-america-brave-new-world/)
-- [Jurassic World Rebirth, 2025 - ★★](https://letterboxd.com/gabekangas/film/jurassic-world-rebirth/)
 
 #### Contact me
 

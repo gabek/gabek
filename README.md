@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Paris Is Burning, 1990 - ★★★½](https://letterboxd.com/gabekangas/film/paris-is-burning/)
 - [Superman, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/superman-2025/)
 - [Godzilla Minus One, 2023 - ★★★★](https://letterboxd.com/gabekangas/film/godzilla-minus-one/)
-- [Resynator, 2024 - ★½](https://letterboxd.com/gabekangas/film/resynator/)
 
 #### Contact me
 

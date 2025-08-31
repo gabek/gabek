@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Caught Stealing, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/caught-stealing/)
 - [Paris Is Burning, 1990 - ★★★½](https://letterboxd.com/gabekangas/film/paris-is-burning/)
 - [Superman, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/superman-2025/)
-- [Godzilla Minus One, 2023 - ★★★★](https://letterboxd.com/gabekangas/film/godzilla-minus-one/)
 
 #### Contact me
 

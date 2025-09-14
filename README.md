@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Snow White, 2025 - ★½](https://letterboxd.com/gabekangas/film/snow-white-2025/)
+- [The Luckiest Man in America, 2024 - ★★★★](https://letterboxd.com/gabekangas/film/the-luckiest-man-in-america/)
 - [Caught Stealing, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/caught-stealing/)
-- [Paris Is Burning, 1990 - ★★★½](https://letterboxd.com/gabekangas/film/paris-is-burning/)
-- [Superman, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/superman-2025/)
 
 #### Contact me
 

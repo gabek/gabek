@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Weapons, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/weapons-2025/)
 - [Snow White, 2025 - ★½](https://letterboxd.com/gabekangas/film/snow-white-2025/)
 - [The Luckiest Man in America, 2024 - ★★★★](https://letterboxd.com/gabekangas/film/the-luckiest-man-in-america/)
-- [Caught Stealing, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/caught-stealing/)
 
 #### Contact me
 

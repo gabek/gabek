@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Opus, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/opus-2025/)
 - [The Fantastic Four: First Steps, 2025 - ★★½](https://letterboxd.com/gabekangas/film/the-fantastic-four-first-steps/)
 - [Eddington, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/eddington/)
-- [Weapons, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/weapons-2025/)
 
 #### Contact me
 

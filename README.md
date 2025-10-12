@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [HIM, 2025 - ★★★](https://letterboxd.com/gabekangas/film/him-2025/)
 - [Friendship, 2024 - ★★★★](https://letterboxd.com/gabekangas/film/friendship-2024/)
 - [Opus, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/opus-2025/)
-- [The Fantastic Four: First Steps, 2025 - ★★½](https://letterboxd.com/gabekangas/film/the-fantastic-four-first-steps/)
 
 #### Contact me
 

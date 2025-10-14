@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Akira, 1988 - ★★★](https://letterboxd.com/gabekangas/film/akira/)
 - [HIM, 2025 - ★★★](https://letterboxd.com/gabekangas/film/him-2025/)
 - [Friendship, 2024 - ★★★★](https://letterboxd.com/gabekangas/film/friendship-2024/)
-- [Opus, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/opus-2025/)
 
 #### Contact me
 

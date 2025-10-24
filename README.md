@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [F1, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/f1/)
 - [TRON: Ares, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/tron-ares/)
 - [Akira, 1988 - ★★★](https://letterboxd.com/gabekangas/film/akira/)
-- [HIM, 2025 - ★★★](https://letterboxd.com/gabekangas/film/him-2025/)
 
 #### Contact me
 

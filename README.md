@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [The Long Walk, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/the-long-walk-2025/)
 - [F1, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/f1/)
 - [TRON: Ares, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/tron-ares/)
-- [Akira, 1988 - ★★★](https://letterboxd.com/gabekangas/film/akira/)
 
 #### Contact me
 

@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Good Fortune, 2025 - ★★½](https://letterboxd.com/gabekangas/film/good-fortune-2025/)
 - [Roofman, 2025 - ★★](https://letterboxd.com/gabekangas/film/roofman/)
 - [The Smashing Machine, 2025 - ★★](https://letterboxd.com/gabekangas/film/the-smashing-machine-2025/)
-- [Frankenstein, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/frankenstein-2025/)
 
 #### Contact me
 

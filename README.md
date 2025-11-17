@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Spinal Tap II: The End Continues, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/spinal-tap-ii-the-end-continues/1/)
 - [Good Fortune, 2025 - ★★½](https://letterboxd.com/gabekangas/film/good-fortune-2025/)
 - [Roofman, 2025 - ★★](https://letterboxd.com/gabekangas/film/roofman/)
-- [The Smashing Machine, 2025 - ★★](https://letterboxd.com/gabekangas/film/the-smashing-machine-2025/)
 
 #### Contact me
 

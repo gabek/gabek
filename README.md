@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [The Gorge, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/the-gorge-2025/)
 - [Spinal Tap II: The End Continues, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/spinal-tap-ii-the-end-continues/1/)
 - [Good Fortune, 2025 - ★★½](https://letterboxd.com/gabekangas/film/good-fortune-2025/)
-- [Roofman, 2025 - ★★](https://letterboxd.com/gabekangas/film/roofman/)
 
 #### Contact me
 

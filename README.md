@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Bugonia, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/bugonia/)
 - [The Woman in Cabin 10, 2025 - ★★](https://letterboxd.com/gabekangas/film/the-woman-in-cabin-10/)
 - [The Platform 2, 2024 - ★★★](https://letterboxd.com/gabekangas/film/the-platform-2/)
-- [The Gorge, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/the-gorge-2025/)
 
 #### Contact me
 

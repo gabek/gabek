@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [If I Had Legs I&#39;d Kick You, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/if-i-had-legs-id-kick-you/)
 - [Bugonia, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/bugonia/)
 - [The Woman in Cabin 10, 2025 - ★★](https://letterboxd.com/gabekangas/film/the-woman-in-cabin-10/)
-- [The Platform 2, 2024 - ★★★](https://letterboxd.com/gabekangas/film/the-platform-2/)
 
 #### Contact me
 

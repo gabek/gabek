@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Die My Love, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/die-my-love/)
 - [If I Had Legs I&#39;d Kick You, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/if-i-had-legs-id-kick-you/)
 - [Bugonia, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/bugonia/)
-- [The Woman in Cabin 10, 2025 - ★★](https://letterboxd.com/gabekangas/film/the-woman-in-cabin-10/)
 
 #### Contact me
 

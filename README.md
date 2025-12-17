@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [The Running Man, 2025 - ★★](https://letterboxd.com/gabekangas/film/the-running-man-2025/)
 - [Die My Love, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/die-my-love/)
 - [If I Had Legs I&#39;d Kick You, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/if-i-had-legs-id-kick-you/)
-- [Bugonia, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/bugonia/)
 
 #### Contact me
 

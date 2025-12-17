@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Christy, 2025 - ★★★](https://letterboxd.com/gabekangas/film/christy-2025-1/)
 - [The Running Man, 2025 - ★★](https://letterboxd.com/gabekangas/film/the-running-man-2025/)
 - [Die My Love, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/die-my-love/)
-- [If I Had Legs I&#39;d Kick You, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/if-i-had-legs-id-kick-you/)
 
 #### Contact me
 

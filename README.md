@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Five Nights at Freddy&#39;s 2, 2025 - ★](https://letterboxd.com/gabekangas/film/five-nights-at-freddys-2/)
 - [Christy, 2025 - ★★★](https://letterboxd.com/gabekangas/film/christy-2025-1/)
 - [The Running Man, 2025 - ★★](https://letterboxd.com/gabekangas/film/the-running-man-2025/)
-- [Die My Love, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/die-my-love/)
 
 #### Contact me
 

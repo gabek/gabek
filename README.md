@@ -10,7 +10,7 @@
 
 #### Latest releases I've contributed to
 
-- [owncast/ffmpeg-builds](https://github.com/owncast/ffmpeg-builds) ([20251122180033](https://github.com/owncast/ffmpeg-builds/releases/tag/20251122180033)) - 
+- [owncast/ffmpeg-builds](https://github.com/owncast/ffmpeg-builds) ([20251223233512](https://github.com/owncast/ffmpeg-builds/releases/tag/20251223233512)) - 
 
 #### My recent blog posts
 

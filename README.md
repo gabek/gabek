@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Nuremberg, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/nuremberg-2025/)
 - [Five Nights at Freddy&#39;s 2, 2025 - ★](https://letterboxd.com/gabekangas/film/five-nights-at-freddys-2/)
 - [Christy, 2025 - ★★★](https://letterboxd.com/gabekangas/film/christy-2025-1/)
-- [The Running Man, 2025 - ★★](https://letterboxd.com/gabekangas/film/the-running-man-2025/)
 
 #### Contact me
 

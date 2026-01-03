@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
-- [Wake Up Dead Man, 2025 - ★★](https://letterboxd.com/gabekangas/film/wake-up-dead-man/)
-- [Nuremberg, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/nuremberg-2025/)
-- [Five Nights at Freddy&#39;s 2, 2025 - ★](https://letterboxd.com/gabekangas/film/five-nights-at-freddys-2/)
+- [Mountainhead, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/mountainhead/)
+- [A Man Called Otto, 2022 - ★★★](https://letterboxd.com/gabekangas/film/a-man-called-otto/)
+- [The Watchers, 2024 - ★★★½](https://letterboxd.com/gabekangas/film/the-watchers-2024/)
 
 #### Contact me
 

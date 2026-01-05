@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Avatar: Fire and Ash, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/avatar-fire-and-ash/)
 - [Mountainhead, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/mountainhead/)
 - [A Man Called Otto, 2022 - ★★★](https://letterboxd.com/gabekangas/film/a-man-called-otto/)
-- [The Watchers, 2024 - ★★★½](https://letterboxd.com/gabekangas/film/the-watchers-2024/)
 
 #### Contact me
 

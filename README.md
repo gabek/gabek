@@ -10,6 +10,7 @@
 
 #### Latest releases I've contributed to
 
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.4](https://github.com/owncast/owncast/releases/tag/v0.2.4)) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [owncast/ffmpeg-builds](https://github.com/owncast/ffmpeg-builds) ([20251223233512](https://github.com/owncast/ffmpeg-builds/releases/tag/20251223233512)) - 
 
 #### My recent blog posts

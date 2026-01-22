@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [One Battle After Another, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/one-battle-after-another/)
 - [Avatar: Fire and Ash, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/avatar-fire-and-ash/)
 - [Mountainhead, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/mountainhead/)
-- [A Man Called Otto, 2022 - ★★★](https://letterboxd.com/gabekangas/film/a-man-called-otto/)
 
 #### Contact me
 

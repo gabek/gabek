@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Blink Twice, 2024 - ★★½](https://letterboxd.com/gabekangas/film/blink-twice/)
 - [Black Bear, 2020 - ★★★½](https://letterboxd.com/gabekangas/film/black-bear/)
 - [Song Sung Blue, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/song-sung-blue-2025/)
-- [One Battle After Another, 2025 - ★★★½](https://letterboxd.com/gabekangas/film/one-battle-after-another/)
 
 #### Contact me
 

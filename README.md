@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [The Housemaid, 2025 - ★★★](https://letterboxd.com/gabekangas/film/the-housemaid-2025/)
 - [Blink Twice, 2024 - ★★½](https://letterboxd.com/gabekangas/film/blink-twice/)
 - [Black Bear, 2020 - ★★★½](https://letterboxd.com/gabekangas/film/black-bear/)
-- [Song Sung Blue, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/song-sung-blue-2025/)
 
 #### Contact me
 

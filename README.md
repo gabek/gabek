@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Mercy, 2026 - ★★](https://letterboxd.com/gabekangas/film/mercy-2026/)
 - [The Housemaid, 2025 - ★★★](https://letterboxd.com/gabekangas/film/the-housemaid-2025/)
 - [Blink Twice, 2024 - ★★½](https://letterboxd.com/gabekangas/film/blink-twice/)
-- [Black Bear, 2020 - ★★★½](https://letterboxd.com/gabekangas/film/black-bear/)
 
 #### Contact me
 

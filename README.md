@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [All Is Lost, 2013 - ★★★](https://letterboxd.com/gabekangas/film/all-is-lost/)
+- [Strawberry Mansion, 2021 - ★★★](https://letterboxd.com/gabekangas/film/strawberry-mansion/)
 - [Paradise, 2023 - ★★★½](https://letterboxd.com/gabekangas/film/paradise-2023-1/)
-- [Mercy, 2026 - ★★](https://letterboxd.com/gabekangas/film/mercy-2026/)
-- [The Housemaid, 2025 - ★★★](https://letterboxd.com/gabekangas/film/the-housemaid-2025/)
 
 #### Contact me
 

@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Melania, 2026 - ★](https://letterboxd.com/gabekangas/film/melania-2026/)
 - [All Is Lost, 2013 - ★★★](https://letterboxd.com/gabekangas/film/all-is-lost/)
 - [Strawberry Mansion, 2021 - ★★★](https://letterboxd.com/gabekangas/film/strawberry-mansion/)
-- [Paradise, 2023 - ★★★½](https://letterboxd.com/gabekangas/film/paradise-2023-1/)
 
 #### Contact me
 

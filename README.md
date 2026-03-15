@@ -22,9 +22,9 @@
 
 #### Movies I've recently watched
 
+- [Parallel, 2024 - ★★★★](https://letterboxd.com/gabekangas/film/parallel-2024/)
 - [99 Homes, 2014 - ★★★★](https://letterboxd.com/gabekangas/film/99-homes/)
 - [Melania, 2026 - ★](https://letterboxd.com/gabekangas/film/melania-2026/)
-- [All Is Lost, 2013 - ★★★](https://letterboxd.com/gabekangas/film/all-is-lost/)
 
 #### Contact me
 

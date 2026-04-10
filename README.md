@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [Nirvanna the Band the Show the Movie, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/nirvanna-the-band-the-show-the-movie/)
 - [Project Hail Mary, 2026 - ★★★](https://letterboxd.com/gabekangas/film/project-hail-mary/)
 - [Parallel, 2024 - ★★★★](https://letterboxd.com/gabekangas/film/parallel-2024/)
-- [99 Homes, 2014 - ★★★★](https://letterboxd.com/gabekangas/film/99-homes/)
 
 #### Contact me
 

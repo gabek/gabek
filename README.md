@@ -21,9 +21,9 @@
 
 #### Movies I've recently watched
 
+- [A Ghost Story, 2017 - ★★★★½](https://letterboxd.com/gabekangas/film/a-ghost-story-2017/)
 - [Nirvanna the Band the Show the Movie, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/nirvanna-the-band-the-show-the-movie/)
 - [Project Hail Mary, 2026 - ★★★](https://letterboxd.com/gabekangas/film/project-hail-mary/)
-- [Parallel, 2024 - ★★★★](https://letterboxd.com/gabekangas/film/parallel-2024/)
 
 #### Contact me
 

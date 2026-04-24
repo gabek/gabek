@@ -3,8 +3,8 @@
 #### Check out some of what I'm working on
 
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
-- [gabek/giglist-upptime](https://github.com/gabek/giglist-upptime) - Uptime monitor and status page for gigl.ist
 - [gabek/gabe-service-status](https://github.com/gabek/gabe-service-status) - 📈 Uptime monitor and status page for gabek, powered by @upptime
+- [gabek/giglist-upptime](https://github.com/gabek/giglist-upptime) - Uptime monitor and status page for gigl.ist
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [owncast/ffmpeg-builds](https://github.com/owncast/ffmpeg-builds) - 
 

@@ -4,9 +4,9 @@
 
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [owncast/plugin-sdk](https://github.com/owncast/plugin-sdk) - 
 - [gabek/scanplay](https://github.com/gabek/scanplay) - Scan RFID and play tunes
 - [gabek/zipserve](https://github.com/gabek/zipserve) - Download a zip file of web assets and serve them
-- [gabek/gabe-service-status](https://github.com/gabek/gabe-service-status) - 📈 Uptime monitor and status page for gabek, powered by @upptime
 
 #### Latest releases I've contributed to
 

@@ -2,15 +2,15 @@
 
 #### Check out some of what I'm working on
 
+- [owncast/plugin-sdk](https://github.com/owncast/plugin-sdk) - 
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [owncast/plugin-sdk](https://github.com/owncast/plugin-sdk) - 
 - [gabek/scanplay](https://github.com/gabek/scanplay) - Scan RFID and play tunes
 - [gabek/zipserve](https://github.com/gabek/zipserve) - Download a zip file of web assets and serve them
 
 #### Latest releases I've contributed to
 
-- [owncast/plugin-sdk](https://github.com/owncast/plugin-sdk) ([v0.1.0](https://github.com/owncast/plugin-sdk/releases/tag/v0.1.0)) - 
+- [owncast/plugin-sdk](https://github.com/owncast/plugin-sdk) ([v0.2.0](https://github.com/owncast/plugin-sdk/releases/tag/v0.2.0)) - 
 - [owncast/ffmpeg-builds](https://github.com/owncast/ffmpeg-builds) ([20260503142706](https://github.com/owncast/ffmpeg-builds/releases/tag/20260503142706)) - 
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.5](https://github.com/owncast/owncast/releases/tag/v0.2.5)) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 

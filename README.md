@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [The Bride!, 2026 - ★★★½](https://letterboxd.com/gabekangas/film/the-bride-2026/)
+- [Star Wars: The Mandalorian and Grogu, 2026 - ★★★](https://letterboxd.com/gabekangas/film/star-wars-the-mandalorian-and-grogu/)
 - [A Ghost Story, 2017 - ★★★★½](https://letterboxd.com/gabekangas/film/a-ghost-story-2017/)
-- [Nirvanna the Band the Show the Movie, 2025 - ★★★★](https://letterboxd.com/gabekangas/film/nirvanna-the-band-the-show-the-movie/)
-- [Project Hail Mary, 2026 - ★★★](https://letterboxd.com/gabekangas/film/project-hail-mary/)
 
 #### Contact me
 

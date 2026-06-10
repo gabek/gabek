@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Backrooms, 2026 - ★★½](https://letterboxd.com/gabekangas/film/backrooms-2026/)
 - [Rear Window, 1954 - ★★★](https://letterboxd.com/gabekangas/film/rear-window/)
 - [The Bride!, 2026 - ★★★½](https://letterboxd.com/gabekangas/film/the-bride-2026/)
-- [Star Wars: The Mandalorian and Grogu, 2026 - ★★★](https://letterboxd.com/gabekangas/film/star-wars-the-mandalorian-and-grogu/)
 
 #### Contact me
 

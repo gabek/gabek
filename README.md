@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Atlas, 2024 - ★★★](https://letterboxd.com/gabekangas/film/atlas-2024/)
 - [Backrooms, 2026 - ★★½](https://letterboxd.com/gabekangas/film/backrooms-2026/)
 - [Rear Window, 1954 - ★★★](https://letterboxd.com/gabekangas/film/rear-window/)
-- [The Bride!, 2026 - ★★★½](https://letterboxd.com/gabekangas/film/the-bride-2026/)
 
 #### Contact me
 

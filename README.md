@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Mortal Kombat II, 2026 - ★★★](https://letterboxd.com/gabekangas/film/mortal-kombat-ii/)
 - [Atlas, 2024 - ★★★](https://letterboxd.com/gabekangas/film/atlas-2024/)
 - [Backrooms, 2026 - ★★½](https://letterboxd.com/gabekangas/film/backrooms-2026/)
-- [Rear Window, 1954 - ★★★](https://letterboxd.com/gabekangas/film/rear-window/)
 
 #### Contact me
 

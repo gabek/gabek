@@ -5,8 +5,8 @@
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [owncast/plugin-sdk](https://github.com/owncast/plugin-sdk) - 
+- [owncast/owncast-directory-example](https://github.com/owncast/owncast-directory-example) - This is a very basic, but runnable, proof of concept for building your own directories and live stream listings for Owncast live broadcasts.
 - [gabek/scanplay](https://github.com/gabek/scanplay) - Scan RFID and play tunes
-- [gabek/zipserve](https://github.com/gabek/zipserve) - Download a zip file of web assets and serve them
 
 #### Latest releases I've contributed to
 

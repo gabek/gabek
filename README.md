@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Disclosure Day, 2026 - ★★★½](https://letterboxd.com/gabekangas/film/disclosure-day/)
 - [Longlegs, 2024 - ★★★★](https://letterboxd.com/gabekangas/film/longlegs/)
 - [Mortal Kombat II, 2026 - ★★★](https://letterboxd.com/gabekangas/film/mortal-kombat-ii/)
-- [Atlas, 2024 - ★★★](https://letterboxd.com/gabekangas/film/atlas-2024/)
 
 #### Contact me
 

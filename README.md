@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Bad Words, 2013 - ★★½](https://letterboxd.com/gabekangas/film/bad-words/)
+- [undertone, 2025 - ★★½](https://letterboxd.com/gabekangas/film/undertone-2025/)
 - [Network, 1976 - ★★★★](https://letterboxd.com/gabekangas/film/network/)
-- [Disclosure Day, 2026 - ★★★½](https://letterboxd.com/gabekangas/film/disclosure-day/)
-- [Longlegs, 2024 - ★★★★](https://letterboxd.com/gabekangas/film/longlegs/)
 
 #### Contact me
 

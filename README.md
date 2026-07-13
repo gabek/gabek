@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Masters of the Universe, 2026 - ★★★](https://letterboxd.com/gabekangas/film/masters-of-the-universe-2026/)
+- [Obsession, 2025 - ★★★★½](https://letterboxd.com/gabekangas/film/obsession-2025/)
 - [Bad Words, 2013 - ★★½](https://letterboxd.com/gabekangas/film/bad-words/)
-- [undertone, 2025 - ★★½](https://letterboxd.com/gabekangas/film/undertone-2025/)
-- [Network, 1976 - ★★★★](https://letterboxd.com/gabekangas/film/network/)
 
 #### Contact me
 

@@ -2,8 +2,8 @@
 
 #### Check out some of what I'm working on
 
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [owncast/plugin-sdk](https://github.com/owncast/plugin-sdk) - Language SDKs for building native Owncast plugins
 - [owncast/stream-latency-compensator](https://github.com/owncast/stream-latency-compensator) - Attempt to minimize latency when using videojs http streaming. 
 - [owncast/owncast-directory-example](https://github.com/owncast/owncast-directory-example) - This is a very basic, but runnable, proof of concept for building your own directories and live stream listings for Owncast live broadcasts.

@@ -10,7 +10,7 @@
 
 #### Latest releases I've contributed to
 
-- [owncast/plugin-sdk](https://github.com/owncast/plugin-sdk) ([v0.8.1](https://github.com/owncast/plugin-sdk/releases/tag/v0.8.1)) - Language SDKs for building native Owncast plugins
+- [owncast/plugin-sdk](https://github.com/owncast/plugin-sdk) ([v0.10.1](https://github.com/owncast/plugin-sdk/releases/tag/v0.10.1)) - Language SDKs for building native Owncast plugins
 - [owncast/ffmpeg-builds](https://github.com/owncast/ffmpeg-builds) ([20260503142706](https://github.com/owncast/ffmpeg-builds/releases/tag/20260503142706)) - 
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.5](https://github.com/owncast/owncast/releases/tag/v0.2.5)) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 

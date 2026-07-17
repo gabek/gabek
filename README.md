@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [They Will Kill You, 2026 - ★★★½](https://letterboxd.com/gabekangas/film/they-will-kill-you/)
 - [Brick, 2025 - ★★½](https://letterboxd.com/gabekangas/film/brick-2025/)
 - [Masters of the Universe, 2026 - ★★★](https://letterboxd.com/gabekangas/film/masters-of-the-universe-2026/)
-- [Obsession, 2025 - ★★★★½](https://letterboxd.com/gabekangas/film/obsession-2025/)
 
 #### Contact me
 

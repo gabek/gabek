@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Things Will Be Different, 2024 - ★★★](https://letterboxd.com/gabekangas/film/things-will-be-different/)
 - [Michael, 2026](https://letterboxd.com/gabekangas/film/michael-2026/)
 - [They Will Kill You, 2026 - ★★★½](https://letterboxd.com/gabekangas/film/they-will-kill-you/)
-- [Brick, 2025 - ★★½](https://letterboxd.com/gabekangas/film/brick-2025/)
 
 #### Contact me
 

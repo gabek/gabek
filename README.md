@@ -16,10 +16,10 @@
 
 #### My recent blog posts
 
+- [Owncasts for iOS and tvOS get updates!](https://gabekangas.com/blog/2026/08/owncasts-for-ios-and-tvos-get-updates/)
 - [Five Years of Owncast](https://gabekangas.com/blog/2025/05/five-years-of-owncast/)
 - [Today marks four years of Owncast](https://gabekangas.com/blog/2024/05/today-marks-four-years-of-owncast/)
 - [Owncasts - A new iOS and tvOS application for viewing Owncast-powered live video streams](https://gabekangas.com/blog/2024/01/owncasts-a-new-ios-and-tvos-application-for-viewing-owncast-powered-live-video-streams/)
-- [Thank you for making Owncast a success in 2023](https://gabekangas.com/blog/2024/01/thank-you-for-making-owncast-a-success-in-2023/)
 
 #### Movies I've recently watched
 

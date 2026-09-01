@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [We Bury the Dead, 2024 - ★★½](https://letterboxd.com/gabekangas/film/we-bury-the-dead/)
 - [Significant Other, 2022 - ★★½](https://letterboxd.com/gabekangas/film/significant-other/)
 - [He Never Died, 2015 - ★★½](https://letterboxd.com/gabekangas/film/he-never-died/)
-- [Things Will Be Different, 2024 - ★★★](https://letterboxd.com/gabekangas/film/things-will-be-different/)
 
 #### Contact me
 

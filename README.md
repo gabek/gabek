@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [The Odyssey, 2026 - ★★★★](https://letterboxd.com/gabekangas/film/the-odyssey-2026/)
 - [28 Years Later: The Bone Temple, 2026 - ★★★★](https://letterboxd.com/gabekangas/film/28-years-later-the-bone-temple/)
 - [We Bury the Dead, 2024 - ★★½](https://letterboxd.com/gabekangas/film/we-bury-the-dead/)
-- [Significant Other, 2022 - ★★½](https://letterboxd.com/gabekangas/film/significant-other/)
 
 #### Contact me
 

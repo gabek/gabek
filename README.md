@@ -2,10 +2,10 @@
 
 #### Check out some of what I'm working on
 
+- [gabek/gabekangas.com](https://github.com/gabek/gabekangas.com) - My personal web site at https://gabekangas.com.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info.
 - [owncast/plugin-sdk](https://github.com/owncast/plugin-sdk) - Language SDKs for building native Owncast plugins
-- [gabek/gabekangas.com](https://github.com/gabek/gabekangas.com) - My personal web site at https://gabekangas.com.
 - [owncast/ffmpeg-builds](https://github.com/owncast/ffmpeg-builds) - 
 
 #### Latest releases I've contributed to
@@ -16,10 +16,10 @@
 
 #### My recent blog posts
 
+- [I miss Twitter](https://gabekangas.com/blog/2026/09/i-miss-twitter/)
 - [Owncasts for iOS and tvOS get updates!](https://gabekangas.com/blog/2026/08/owncasts-for-ios-and-tvos-get-updates/)
 - [Five Years of Owncast](https://gabekangas.com/blog/2025/05/five-years-of-owncast/)
 - [Today marks four years of Owncast](https://gabekangas.com/blog/2024/05/today-marks-four-years-of-owncast/)
-- [Owncasts - A new iOS and tvOS application for viewing Owncast-powered live video streams](https://gabekangas.com/blog/2024/01/owncasts-a-new-ios-and-tvos-application-for-viewing-owncast-powered-live-video-streams/)
 
 #### Movies I've recently watched
 

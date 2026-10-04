@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
-- [The Odyssey, 2026 - ★★★★](https://letterboxd.com/gabekangas/film/the-odyssey-2026/)
-- [28 Years Later: The Bone Temple, 2026 - ★★★★](https://letterboxd.com/gabekangas/film/28-years-later-the-bone-temple/)
-- [We Bury the Dead, 2024 - ★★½](https://letterboxd.com/gabekangas/film/we-bury-the-dead/)
+- [The Purge: Anarchy, 2014 - ★★★](https://letterboxd.com/gabekangas/film/the-purge-anarchy/)
+- [The Purge, 2013 - ★★★](https://letterboxd.com/gabekangas/film/the-purge/)
+- [Joy Division, 2007 - ★★★★½](https://letterboxd.com/gabekangas/film/joy-division-2007/)
 
 #### Contact me
 

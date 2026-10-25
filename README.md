@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
-- [The Purge: Anarchy, 2014 - ★★★](https://letterboxd.com/gabekangas/film/the-purge-anarchy/)
-- [The Purge, 2013 - ★★★](https://letterboxd.com/gabekangas/film/the-purge/)
-- [Joy Division, 2007 - ★★★★½](https://letterboxd.com/gabekangas/film/joy-division-2007/)
+- [Spider-Man: Brand New Day, 2026 - ★★★★](https://letterboxd.com/gabekangas/film/spider-man-brand-new-day/)
+- [Coyote vs. Acme, 2026 - ★★★★★](https://letterboxd.com/gabekangas/film/coyote-vs-acme/)
+- [Pressure, 2026 - ★★★](https://letterboxd.com/gabekangas/film/pressure-2026/)
 
 #### Contact me
 

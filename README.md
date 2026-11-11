@@ -23,9 +23,9 @@
 
 #### Movies I've recently watched
 
+- [Greenland 2: Migration, 2026 - ★★½](https://letterboxd.com/gabekangas/film/greenland-2-migration/)
 - [You Can See Everything, 2026 - ★★★★½](https://letterboxd.com/gabekangas/film/you-can-see-everything/)
 - [Spider-Man: Brand New Day, 2026 - ★★★★](https://letterboxd.com/gabekangas/film/spider-man-brand-new-day/)
-- [Coyote vs. Acme, 2026 - ★★★★★](https://letterboxd.com/gabekangas/film/coyote-vs-acme/)
 
 #### Contact me
 
